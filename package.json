@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
+    "bootstrap": "^5.3.3",
+    "d3": "^7.9.0",
+    "next": "14.2.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.2",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "topojson-client": "^3.1.0"
   },
   "devDependencies": {
     "eslint": "^8",

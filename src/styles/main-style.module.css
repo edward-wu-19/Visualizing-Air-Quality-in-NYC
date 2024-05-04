@@ -1,0 +1,26 @@
+.mainView {
+    display: flex;
+}
+
+.map-style {
+    background-color: #2a5599;
+    color: white;
+    padding: 5px;
+}
+
+.svgStyle {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.h1Style {
+    /* background-color: #2a5599;
+    color: white; */
+    padding: 5px;
+}
+
+.boundary {
+    fill: #9a9e9e;
+    stroke: #C0C0BB;
+}
