@@ -1,11 +1,14 @@
 .mainView {
     display: flex;
+    background-color: lightgray;
 }
 
-.map-style {
-    background-color: #2a5599;
+.mapStyle {
+    background-color: #aac6f3;
     color: white;
-    padding: 5px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
 }
 
 .svgStyle {
@@ -14,6 +17,13 @@
     border-color: black;
 }
 
+.listStyle {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+ }
+
 .h1Style {
     /* background-color: #2a5599;
     color: white; */
@@ -21,6 +31,34 @@
 }
 
 .boundary {
-    fill: #9a9e9e;
-    stroke: #C0C0BB;
+    stroke: black;
+}
+
+.textboxStyle {
+    background-color: lavender;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    font: "12px sans-serif";
+    padding: "2px";
+    position: "absolute";
+    color: 'black';
+}
+
+.legendStyle {
+    background-color: lavender;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1.2em;
+}
+
+.sliderStyle {
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    vertical-align: middle;
 }
