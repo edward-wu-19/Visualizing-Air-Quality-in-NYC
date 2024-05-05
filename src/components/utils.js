@@ -47,7 +47,7 @@ function useUhf42Dictionary(csvPath){
     return dataAll;
 }
 
-function neighborhoodName(neighborhoodID){
+function NeighborhoodName(neighborhoodID){
     const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Info-Vis-Final-Project/main/src/components/UHF42%20District%20Dictionary.csv';
 
     const dict = useUhf42Dictionary(csvUrl);
@@ -60,4 +60,4 @@ function neighborhoodName(neighborhoodID){
     return convert[neighborhoodID];
 }
 
-export { pollutantToColor, removeDuplicates, arange, neighborhoodName }
+export { pollutantToColor, removeDuplicates, arange, NeighborhoodName as neighborhoodName }
