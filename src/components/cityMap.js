@@ -6,7 +6,6 @@ import { min, max, scaleLinear } from 'd3';
 import styles from "../styles/main-style.module.css";
 
 import { Nodes } from "./node"
-import { MapLegend } from "./mapLegend";
 import { arange } from "./utils";
 
 function CityMap(props){
@@ -42,7 +41,6 @@ function CityMap(props){
         }
         <Nodes projection={projection} map={map} data={data} colorScale={colorScale} selectedYear={selectedYear} selectedPollutant={selectedPollutant} selectedNeighborhood={selectedNeighborhood} onHover={onHover} onOut={onOut} />
         
-        <MapLegend x={20} y={20} width={100} height={50} rangeOfValues={colorScale.domain} colormap={colorScale} />
     </g>
 
 }
