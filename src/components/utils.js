@@ -33,7 +33,7 @@ function arange(start, stop, step=1){
     return arr;
 }
 
-function uhf42Dictionary(csvPath){
+function useUhf42Dictionary(csvPath){
     const [dataAll, setDataAll] = React.useState(null);
     React.useEffect(() => {
         csv(csvPath).then(data => {
@@ -50,7 +50,7 @@ function uhf42Dictionary(csvPath){
 function neighborhoodName(neighborhoodID){
     const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Info-Vis-Final-Project/main/src/components/UHF42%20District%20Dictionary.csv';
 
-    const dict = uhf42Dictionary(csvUrl);
+    const dict = useUhf42Dictionary(csvUrl);
 
     var convert = {};
     for (const entry in dict){

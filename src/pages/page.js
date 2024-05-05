@@ -56,7 +56,7 @@ function PollutantVisualization(){
     const [toggleOzone, setToggleOzone] = React.useState(true);
     const [toggleNitrogen, setToggleNitrogen] = React.useState(true);
     const [toggleParticles, setToggleParticles] = React.useState(true);
-    const [toggleToxins, setToggleToxins] = React.useState(true);
+    // const [toggleToxins, setToggleToxins] = React.useState(true); // originally had planned to, but the dataset does not include toxins in UHF-42 measurements.
 
     const onClick = (index) => {
         if (index == 0){

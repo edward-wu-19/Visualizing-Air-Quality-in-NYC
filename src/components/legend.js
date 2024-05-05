@@ -23,9 +23,9 @@ function Legend(props){
           <ul>
             {legendItems.map((item, index) => 
             { 
-             return <g><li key={item.name} >
+             return <g><li>
                 <input key={item.name} type="checkbox" value={item.name} onClick={() => onClick(index)} />
-                <span style={{ color: item.color, marginRight: '5px' }}>&#9632;</span>
+                <span key={item.name} style={{ color: item.color, marginRight: '5px' }}>&#9632;</span>
                 {item.name}</li>
             </g>
             })
