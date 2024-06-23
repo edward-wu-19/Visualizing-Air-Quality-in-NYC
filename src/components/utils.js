@@ -1,6 +1,6 @@
 import React from "react";
-import { csv } from "d3";
-import styles from "../styles/main-style.module.css";
+import { csv, json } from "d3";
+import * as topojson from "topojson-client";
 
 function pollutantToColor(pollName){
     // takes in a string, returns string of color
@@ -13,10 +13,7 @@ function pollutantToColor(pollName){
     else if (pollName == 'Fine Particles'){
         return "black";
     }
-    else if (pollName == 'Air Toxics'){
-        return 'green';
-    }
-    else return 'orange';
+    else return null;
 }
 
 function removeDuplicates(arr) {
@@ -47,17 +44,46 @@ function useUhf42Dictionary(csvPath){
     return dataAll;
 }
 
-function NeighborhoodName(neighborhoodID){
+function neighborhoodName(neighborhoodID){
     const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Info-Vis-Final-Project/main/src/components/UHF42%20District%20Dictionary.csv';
 
     const dict = useUhf42Dictionary(csvUrl);
 
-    var convert = {};
     for (const entry in dict){
-        convert[dict[entry].ID] = dict[entry].Name;
+        if (neighborhoodID == dict[entry].ID) {
+            return dict[entry].Name;
+        }
     }
-
-    return convert[neighborhoodID];
+    
+    // if the ID was not found, return the id that was given
+    return neighborhoodID;
 }
 
-export { pollutantToColor, removeDuplicates, arange, NeighborhoodName as neighborhoodName }
+function useData(csvPath){
+    const [dataAll, setData] = React.useState(null);
+    React.useEffect(() => {
+        csv(csvPath).then(data => {
+            data.forEach(d => {
+                d.ID = d.row;
+                d.Name = d.Name;
+                d.Neighborhood =+ d.Neighborhood;
+                d.Value =+ d.Value;
+                d.Year =+ d.Year;
+            });
+            setData(data);
+        });
+    }, []);
+    return dataAll;
+}
+
+function useMap(jsonPath) {
+    const [data, setData] = React.useState(null);
+    React.useEffect(() => {
+        json(jsonPath).then(topoJsonData => {
+            setData(topojson.feature(topoJsonData, topoJsonData.objects.collection));
+        })
+    }, []);
+    return data;
+}
+
+export { pollutantToColor, removeDuplicates, arange, neighborhoodName, useData, useMap }

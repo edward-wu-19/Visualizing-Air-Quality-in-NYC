@@ -1,64 +1,119 @@
 .mainView {
-    display: flex;
     background-color: lightgray;
+    width: 100vw;
+}
+
+.columnStyle {
+    margin: auto;
+}
+
+.headerStyle {
+    padding: 10px;
+    text-align: center;
 }
 
 .mapStyle {
     background-color: #aac6f3;
-    color: white;
     border-width: 4px;
     border-style: solid;
     border-color: black;
+    margin: 10px;
+    margin-top: 0px;
 }
 
-.svgStyle {
-    border-width: 1px;
+.chartStyle {
+    background-color: white;
+    border-width: 4px;
     border-style: solid;
     border-color: black;
-}
-
-.listStyle {
-    list-style: none;
-    margin-left: 0;
-    padding-left: 1em;
-    text-indent: -1em;
- }
-
-.h1Style {
-    /* background-color: #2a5599;
-    color: white; */
-    padding: 5px;
+    margin: 10px;
+    margin-top: 0px;
 }
 
 .boundary {
     stroke: black;
+    stroke-width: 1px;
+}
+
+.sliderStyle {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sliderBarStyle {
+    accent-color: black;
+    margin: 0px;
+}
+
+.sliderTextStyle {
+    text-align: center;
+    width: 50%;
+    border: 1px solid black;
+    background-color: #444444;
+    color: white;
+    margin: auto;
+    margin-top: 5px;
+    font-size: 16px;
 }
 
 .textboxStyle {
+    margin: auto;
+    text-align: center;
+    border: 1px black dashed;
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+.textboxTitleStyle {
     background-color: lavender;
-    border-width: 2px;
-    border-style: solid;
-    border-color: black;
-    font: "12px sans-serif";
-    padding: "2px";
-    position: "absolute";
+    border: 2px solid black;
+    font-size: 16px;
     color: 'black';
+    text-align: center;
+    margin-bottom: 10px;
+    padding: auto;
+    padding-top: 3px;
+}
+
+.textboxBodyStyle {
+    background-color: lavender;
+    border: 2px solid black;
+    font-size: 16px;
+    color: 'black';
+    text-align: center;
+}
+
+.legendWholeStyle {
+    margin-top: 10px;
 }
 
 .legendStyle {
     background-color: lavender;
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
-    list-style: none;
-    margin-left: 0;
+    border: 2px solid black;
     padding-left: 1em;
-    text-indent: -1.2em;
+    list-style-type: none;
 }
 
-.sliderStyle {
-    border-width: 1px;
-    border-style: solid;
-    border-color: white;
-    vertical-align: middle;
+.infoboxStyle {
+    border: 2px solid black;
+    background-color: white;
+    padding: 10px;
+    height: auto;
+    text-wrap: wrap;
+}
+
+.infoboxTableStyle {
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.infoboxTableStyle td {
+    border: 1px solid black;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.infoboxTableStyle th {
+    border: 1px solid black;
 }

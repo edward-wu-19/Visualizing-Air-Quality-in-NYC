@@ -5,13 +5,10 @@ import { geoPath, geoMercator } from "d3-geo";
 import { min, max, scaleLinear } from 'd3';
 import styles from "../styles/main-style.module.css";
 
-import { Nodes } from "./node"
-import { arange } from "./utils";
+import { Nodes } from "./node";
 
 function CityMap(props){
-    const {width, height, map, coords, data, selectedYear, selectedPollutant, selectedNeighborhood, onHover, onOut} = props;
-
-    // console.log('map:', map);
+    const {width, height, border_width, border_height, map, data, selectedYear, selectedPollutant, selectedNeighborhood, onHover, onOut} = props;
 
     let projection = geoMercator();
 
@@ -23,7 +20,7 @@ function CityMap(props){
     .domain([min(data.filter(d => d.Name == selectedPollutant), d => d.Value), max(data.filter(d => d.Name == selectedPollutant), d => d.Value)])
     .range([100, 40]).nice();
 
-    return <g>
+    return <g transform={`translate(${(border_width-width)/2},${(border_height-height)/2})`}>
         {
             map.features.filter(row => row.properties.GEOCODE != selectedNeighborhood).map(feature => 
             <path key={feature.properties.GEOCODE} 
@@ -31,6 +28,7 @@ function CityMap(props){
             fill={'#d4d4d4'}
              />)
         }
+        {/* make the hovered neighborhood a different color */}
         {
             map.features.filter(row => row.properties.GEOCODE == selectedNeighborhood).map(feature => 
             <path key={feature.properties.GEOCODE} 
@@ -40,7 +38,6 @@ function CityMap(props){
             )
         }
         <Nodes projection={projection} map={map} data={data} colorScale={colorScale} selectedYear={selectedYear} selectedPollutant={selectedPollutant} selectedNeighborhood={selectedNeighborhood} onHover={onHover} onOut={onOut} />
-        
     </g>
 
 }

@@ -1,22 +1,44 @@
 import React from "react";
-import styles from "../styles/main-style.module.css";
 
 import { neighborhoodName } from "./utils";
 
-function Textbox(props) {
-    const {width, height, data, selectedYear, selectedNeighborhood} = props;
-    
-    // document.getElementById('textbox').innerHTML = "New text!";
+import styles from "../styles/main-style.module.css";
 
+function TextboxTitle(props) {
+    const {width, height, selectedYear, selectedNeighborhood} = props;
+
+    var selectedNeighborhoodCopy = selectedNeighborhood;
+
+    // if no neighborhood is selected, we replace it with "City Averages"
+    if (!selectedNeighborhoodCopy){
+        // because of the way neighborhoodName is defined, this works for the argument "City Averages"
+        selectedNeighborhoodCopy = "City Averages";
+    }
+    selectedNeighborhoodCopy = neighborhoodName(selectedNeighborhoodCopy);
+
+    return <g>
+        <foreignObject width={width} height={height} xmlns="http://www.w3.org/1999/xhtml">
+            {selectedYear}
+            <br/>
+            {selectedNeighborhoodCopy}
+        </foreignObject>
+    </g>;
+}
+
+function TextboxBody(props) {
+    const {data, selectedYear, selectedNeighborhood} = props;
+    
     if (!data) {
-        return <g><p>Hi</p></g>;
+        return <g></g>;
     }
     
-    var selectedRows = data.filter(row => row.Year == selectedYear);
+    let selectedRows = data.filter(row => row.Year == selectedYear);
+    
 
     if (selectedNeighborhood){
         selectedRows = data.filter(row => row.Year == selectedYear && row.Neighborhood == selectedNeighborhood);
     }
+    
 
     const groupedRows = Object.groupBy(selectedRows, ({ Name }) => Name);
 
@@ -35,49 +57,32 @@ function Textbox(props) {
         particleMeas += groupedRows['Fine Particles'][entry].Value;
     }
 
-    if (!selectedNeighborhood & selectedYear) {
-        const groupedRows = Object.groupBy(selectedRows, ({ Name }) => Name);
+    if (!selectedYear) {
+        // if the year is not even selected, then something has gone wrong
+        // in all my messing around, this branch has never been executed...
+        return <g><text>Something has gone wrong.</text></g>;
+    }
 
+    if (!selectedNeighborhood) {
         // for city averages, divide by 42 because there are 42 districts and there are no missing data.
         ozoneMeas = Math.round(ozoneMeas / 42 * 100)/100;
         nitrogenMeas = Math.round(nitrogenMeas / 42 * 100)/100;
         particleMeas = Math.round(particleMeas / 42 * 100)/100;
+    }
 
-        return <g><text>
-        <tspan x="20" dy="1.2em">
-            {`${selectedYear}`} City Averages
-        </tspan>
-        <tspan x='20' dy='20'>----------------------------</tspan>
+    return <g>
+        <text>
         <tspan x='20' dy='1.2em'>
-            Ozone: {`${ozoneMeas}`} ppb
+            Ozone: {ozoneMeas} ppb
         </tspan>
         <tspan x='20' dy='1.2em'>
-            Nitrogen Dioxide: {`${nitrogenMeas}`} ppb
+            Nitrogen Dioxide: {nitrogenMeas} ppb
         </tspan>
         <tspan x='20' dy='1.2em'>
-            Fine Particles: {`${particleMeas}`} mcg/m3
+            Fine Particles: {particleMeas} mcg/m3
         </tspan>
-        </text></g>;
-    } else if (selectedNeighborhood & selectedYear) {
-        return <g><text>
-        <tspan x="20" dy="1.2em">
-            {`${selectedYear} ${neighborhoodName(selectedNeighborhood)}`}
-        </tspan>
-        <tspan x='20' dy='1.2em'>
-            Measurements
-        </tspan>
-        <tspan x='20' dy='20'>----------------------------</tspan>
-        <tspan x='20' dy='1.2em'>
-            Ozone: {`${ozoneMeas}`} ppb
-        </tspan>
-        <tspan x='20' dy='1.2em'>
-            Nitrogen Dioxide: {`${nitrogenMeas}`} ppb
-        </tspan>
-        <tspan x='20' dy='1.2em'>
-            Fine Particles: {`${particleMeas}`} mcg/m3
-        </tspan>
-        </text></g>;
-    };  
+        </text>
+    </g>;
 }
 
-export { Textbox }
+export { TextboxTitle, TextboxBody }

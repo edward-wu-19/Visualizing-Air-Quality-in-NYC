@@ -3,6 +3,8 @@ import { max, scaleLinear } from "d3";
 import { XAxis, YAxis } from "./axes";
 import { pollutantToColor, arange } from "./utils";
 
+import styles from "../styles/main-style.module.css";
+
 function LineChart (props) {
     const {offsetX, offsetY, dataset, height, width, toggleOzone, toggleNitrogen, toggleParticles, selectedNeighborhood} = props;
 
@@ -34,7 +36,7 @@ function LineChart (props) {
     }
 
     const xScale = scaleLinear().range([20, width-20]).domain([2009, 2022]).nice();
-    const yScale = scaleLinear().range([height, 0]).domain([0, max(data, a => a.Value)]).nice(); 
+    const yScale = scaleLinear().range([height, 10]).domain([0, max(data, a => a.Value)]).nice(); 
 
     // helper stores the grouping and the mean for the measurements in each
 
@@ -112,7 +114,7 @@ function LineChart (props) {
             )
         }
         
-        <YAxis yScale={yScale} height={height} offsetX={offsetX}/>
+        <YAxis yScale={yScale} height={height} offsetX={offsetX} offsetY={offsetY} />
         <XAxis xScale={xScale} width={width} height={height} />
     </g>
 }

@@ -2,8 +2,6 @@ import React from "react";
 import { min, max } from 'd3';
 import styles from "../styles/main-style.module.css";
 
-import { pollutantToColor } from "./utils";
-
 function determineCoordinates(feature){
     // return the coordinates that the node should be placed
 
@@ -44,8 +42,7 @@ function determineCoordinates(feature){
 function Nodes(props){
     const {projection, map, data, colorScale, selectedYear, selectedPollutant, selectedNeighborhood, onHover, onOut} = props;
 
-    const getRadius = d => d === selectedNeighborhood ? 12:8;
-    // const getStroke = d => d === selectedNeighborhood ? 'black':'black';
+    const getRadius = d => d === selectedNeighborhood ? 15:9;
     const getStrokeWidth = d => d === selectedNeighborhood ? '2px':'1px';
 
     if(data){
@@ -76,16 +73,14 @@ function Nodes(props){
             sat = "0%";
         }
 
-        // console.log(hue, sat);
-
         // plot nodes
         return <g>
             {
                 selectedRows.map( d => {
                 var color = "hsl(" + hue + ',' + sat + "," + Math.round(colorScale(d.Value)) + "%)";
-                {/* console.log(color); */}
             
-                return <circle key={d.Neighborhood}
+                return <circle 
+                    key={d.Neighborhood}
                     r={`${getRadius(d.Neighborhood)}`}
                     stroke={'black'}
                     strokeWidth={`${getStrokeWidth(d.Neighborhood)}`}
@@ -97,11 +92,9 @@ function Nodes(props){
                     ></circle>
                     }
                 )}
-        </g>
+        </g>;
     } else {
-        return <g>
-
-        </g>
+        return <g></g>;
     }
 }
 
