@@ -1,6 +1,6 @@
 import React from "react";
 
-import { neighborhoodName } from "./utils";
+import { useNeighborhoodName } from "./utils";
 
 import styles from "../styles/main-style.module.css";
 
@@ -11,10 +11,10 @@ function TextboxTitle(props) {
 
     // if no neighborhood is selected, we replace it with "City Averages"
     if (!selectedNeighborhoodCopy){
-        // because of the way neighborhoodName is defined, this works for the argument "City Averages"
+        // because of the way useNeighborhoodName is defined, this works for the argument "City Averages"
         selectedNeighborhoodCopy = "City Averages";
     }
-    selectedNeighborhoodCopy = neighborhoodName(selectedNeighborhoodCopy);
+    selectedNeighborhoodCopy = useNeighborhoodName(selectedNeighborhoodCopy);
 
     return <g>
         <foreignObject width={width} height={height} xmlns="http://www.w3.org/1999/xhtml">
