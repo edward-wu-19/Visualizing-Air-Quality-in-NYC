@@ -16,11 +16,6 @@ function pollutantToColor(pollName){
     else return null;
 }
 
-function removeDuplicates(arr) {
-    return arr.filter((item,
-        index) => arr.indexOf(item) === index);
-}
-
 function arange(start, stop, step=1){
     step = step || 1;
     var arr = [];
@@ -44,7 +39,7 @@ function useUhf42Dictionary(csvPath){
     return dataAll;
 }
 
-function neighborhoodName(neighborhoodID){
+function useNeighborhoodName(neighborhoodID){
     const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Info-Vis-Final-Project/main/src/components/UHF42%20District%20Dictionary.csv';
 
     const dict = useUhf42Dictionary(csvUrl);
@@ -86,4 +81,4 @@ function useMap(jsonPath) {
     return data;
 }
 
-export { pollutantToColor, removeDuplicates, arange, neighborhoodName, useData, useMap }
+export { pollutantToColor, arange, useNeighborhoodName, useData, useMap }
