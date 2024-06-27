@@ -40,7 +40,7 @@ function useUhf42Dictionary(csvPath){
             });
             setDataAll(data);
         });
-    }, []);
+    }, [csvPath]);
     return dataAll;
 }
 
@@ -72,7 +72,7 @@ function useData(csvPath){
             });
             setData(data);
         });
-    }, []);
+    }, [csvPath]);
     return dataAll;
 }
 
@@ -82,7 +82,7 @@ function useMap(jsonPath) {
         json(jsonPath).then(topoJsonData => {
             setData(topojson.feature(topoJsonData, topoJsonData.objects.collection));
         })
-    }, []);
+    }, [jsonPath]);
     return data;
 }
 
