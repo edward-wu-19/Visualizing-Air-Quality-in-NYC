@@ -2,18 +2,26 @@ import React from "react";
 import { csv, json } from "d3";
 import * as topojson from "topojson-client";
 
-function pollutantToColor(pollName){
+function pollutantToColor(selectedPollutant){
     // takes in a string, returns string of color
-    if (pollName == 'Ozone'){
-        return "red";
-    }
-    else if (pollName == "Nitrogen Dioxide"){
-        return "blue";
-    }
-    else if (pollName == 'Fine Particles'){
-        return "black";
-    }
-    else return null;
+    return selectedPollutant == "Ozone" ? "red"
+    : selectedPollutant == "Nitrogen Dioxide" ? "blue" 
+    : selectedPollutant == "Fine Particles" ? "black"
+    : "white";
+}
+
+function pollutantToHue(selectedPollutant){
+    // takes in a string, returns hue of the color for HSL
+    return selectedPollutant == "Nitrogen Dioxide" ? "240"
+    // ozone and fine particles both use 0
+    : "0";
+}
+
+function pollutantToSat(selectedPollutant){
+    // takes in a string, returns hue of the color for HSL
+    return selectedPollutant == "Fine Particles" ? "0%"
+    // ozone and nitrogen dioxide both use sat 100
+    : "100%";
 }
 
 function arange(start, stop, step=1){
@@ -81,4 +89,4 @@ function useMap(jsonPath) {
     return data;
 }
 
-export { pollutantToColor, arange, useNeighborhoodName, useData, useMap }
+export { pollutantToColor, pollutantToHue, pollutantToSat, arange, useNeighborhoodName, useData, useMap }
