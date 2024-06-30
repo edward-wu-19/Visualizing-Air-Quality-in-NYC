@@ -1,6 +1,7 @@
 import React from "react";
 import { min, max } from 'd3';
-import styles from "../styles/main-style.module.css";
+
+import { pollutantToHue, pollutantToSat } from "./utils";
 
 function determineCoordinates(feature){
     // return the coordinates that the node should be placed
@@ -40,7 +41,7 @@ function determineCoordinates(feature){
 }
 
 function Nodes(props){
-    const {projection, map, data, colorScale, selectedYear, selectedPollutant, selectedNeighborhood, onHover, onOut} = props;
+    const {projection, map, data, luminosityScale, selectedYear, selectedPollutant, selectedNeighborhood, onHover, onOut} = props;
 
     const getRadius = d => d === selectedNeighborhood ? 15:9;
     const getStrokeWidth = d => d === selectedNeighborhood ? '2px':'1px';
@@ -59,25 +60,14 @@ function Nodes(props){
         let selectedRows = data.filter(d => d.Year == selectedYear && d.Name == selectedPollutant);
 
         // determine the right color, in hsl format
-        var hue, sat;
-        if (selectedPollutant == 'Ozone'){
-            hue = '0';
-            sat = "100%";
-        }
-        else if (selectedPollutant == 'Nitrogen Dioxide'){
-            hue = '240';
-            sat = "100%";
-        }
-        else if (selectedPollutant == 'Fine Particles'){
-            hue = '0';
-            sat = "0%";
-        }
+        var hue = pollutantToHue(selectedPollutant);
+        var sat = pollutantToSat(selectedPollutant);
 
         // plot nodes
         return <g>
             {
                 selectedRows.map( d => {
-                var color = "hsl(" + hue + ',' + sat + "," + Math.round(colorScale(d.Value)) + "%)";
+                var color = "hsl(" + hue + ',' + sat + "," + Math.round(luminosityScale(d.Value)) + "%)";
             
                 return <circle 
                     key={d.Neighborhood}
