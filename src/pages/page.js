@@ -18,7 +18,7 @@ import { useData, useMap } from "../components/utils";
 import styles from "../styles/main-style.module.css";
 
 
-const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Info-Vis-Final-Project/main/src/components/summer.csv';
+const csvUrl = 'https://raw.githubusercontent.com/edward-wu-19/Visualizing-Air-Quality-in-NYC/main/src/components/summer_data.csv';
 const mapUrl = 'https://raw.githubusercontent.com/nycehs/NYC_geography/master/UHF42.topo.json';
 
 // ===================================== 
