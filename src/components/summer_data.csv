@@ -1,0 +1,1765 @@
+Row,Name,Neighborhood,Year,Value
+1941,Fine Particles,209.0,2009,10.6
+1942,Nitrogen Dioxide,409.0,2009,16.1
+1943,Nitrogen Dioxide,410.0,2009,8.6
+1944,Fine Particles,104.0,2009,10.4
+1945,Nitrogen Dioxide,211.0,2009,23.1
+1946,Nitrogen Dioxide,308.0,2009,31.6
+1947,Nitrogen Dioxide,407.0,2009,18.6
+1952,Nitrogen Dioxide,207.0,2009,21.4
+1960,Fine Particles,403.0,2009,10.2
+1961,Fine Particles,305.0,2009,12.9
+1962,Nitrogen Dioxide,305.0,2009,30.9
+1963,Nitrogen Dioxide,204.0,2009,19.5
+1973,Nitrogen Dioxide,103.0,2009,21.2
+1976,Nitrogen Dioxide,107.0,2009,23.0
+1989,Nitrogen Dioxide,206.0,2009,21.3
+1990,Nitrogen Dioxide,210.0,2009,15.2
+1992,Nitrogen Dioxide,202.0,2009,25.2
+1993,Fine Particles,202.0,2009,11.7
+1994,Fine Particles,102.0,2009,10.3
+2001,Fine Particles,201.0,2009,12.2
+2002,Fine Particles,103.0,2009,10.6
+2003,Nitrogen Dioxide,205.0,2009,22.3
+2023,Fine Particles,107.0,2009,9.7
+2024,Fine Particles,207.0,2009,10.8
+2028,Fine Particles,306.0,2009,14.3
+2029,Nitrogen Dioxide,303.0,2009,26.4
+2034,Nitrogen Dioxide,106.0,2009,26.5
+2049,Fine Particles,105.0,2009,11.3
+2054,Ozone,210.0,2009,29.6
+2058,Ozone,101.0,2009,23.7
+2059,Ozone,301.0,2009,21.8
+2066,Ozone,211.0,2009,24.8
+2069,Ozone,103.0,2009,24.5
+2070,Ozone,303.0,2009,22.8
+2071,Ozone,203.0,2009,24.3
+2073,Ozone,410.0,2009,33.6
+2074,Ozone,409.0,2009,27.6
+2075,Fine Particles,106.0,2009,11.4
+2079,Ozone,202.0,2009,23.1
+2080,Ozone,102.0,2009,26.8
+2081,Fine Particles,406.0,2009,10.1
+2082,Fine Particles,304.0,2009,12.1
+2083,Fine Particles,404.0,2009,9.9
+2091,Fine Particles,303.0,2009,11.0
+2092,Fine Particles,205.0,2009,11.5
+2122,Nitrogen Dioxide,307.0,2009,41.0
+2144,Ozone,208.0,2009,29.0
+2145,Ozone,408.0,2009,26.1
+2147,Fine Particles,408.0,2009,10.1
+2159,Fine Particles,203.0,2009,10.9
+2160,Fine Particles,309.0,2009,12.3
+2161,Fine Particles,310.0,2009,13.2
+2174,Nitrogen Dioxide,309.0,2009,29.3
+2176,Nitrogen Dioxide,403.0,2009,19.3
+2177,Nitrogen Dioxide,304.0,2009,28.5
+2178,Nitrogen Dioxide,310.0,2009,34.4
+2179,Ozone,309.0,2009,21.2
+2180,Ozone,206.0,2009,25.5
+2182,Nitrogen Dioxide,102.0,2009,17.9
+2183,Ozone,501.0,2009,24.4
+2191,Fine Particles,301.0,2009,10.8
+2193,Fine Particles,410.0,2009,9.6
+2194,Fine Particles,210.0,2009,10.4
+2196,Fine Particles,504.0,2009,10.4
+2205,Fine Particles,211.0,2009,12.7
+2206,Ozone,201.0,2009,25.6
+2207,Ozone,209.0,2009,26.9
+2209,Ozone,306.0,2009,18.2
+2210,Ozone,406.0,2009,25.4
+2217,Fine Particles,307.0,2009,15.1
+2219,Ozone,204.0,2009,26.3
+2228,Nitrogen Dioxide,404.0,2009,16.8
+2240,Nitrogen Dioxide,301.0,2009,25.6
+2242,Nitrogen Dioxide,208.0,2009,15.5
+2243,Ozone,107.0,2009,25.2
+2251,Fine Particles,407.0,2009,10.1
+2254,Ozone,308.0,2009,20.6
+2255,Ozone,307.0,2009,16.1
+2256,Ozone,407.0,2009,26.5
+2272,Fine Particles,405.0,2009,10.6
+2277,Fine Particles,501.0,2009,10.8
+2280,Fine Particles,409.0,2009,9.7
+2281,Fine Particles,206.0,2009,10.8
+2295,Nitrogen Dioxide,201.0,2009,22.6
+2302,Fine Particles,204.0,2009,10.1
+2303,Ozone,503.0,2009,26.0
+2304,Ozone,403.0,2009,26.3
+2305,Ozone,205.0,2009,24.6
+2306,Ozone,305.0,2009,20.9
+2307,Ozone,105.0,2009,23.1
+2308,Ozone,405.0,2009,25.6
+2312,Ozone,310.0,2009,18.9
+2314,Ozone,302.0,2009,21.5
+2315,Nitrogen Dioxide,306.0,2009,37.1
+2316,Nitrogen Dioxide,406.0,2009,19.4
+2325,Nitrogen Dioxide,502.0,2009,14.9
+2327,Ozone,104.0,2009,26.7
+2329,Ozone,504.0,2009,27.8
+2330,Ozone,304.0,2009,21.3
+2331,Nitrogen Dioxide,104.0,2009,19.0
+2332,Nitrogen Dioxide,203.0,2009,23.2
+2338,Fine Particles,308.0,2009,12.9
+2350,Nitrogen Dioxide,408.0,2009,18.5
+2359,Nitrogen Dioxide,105.0,2009,25.0
+2364,Ozone,106.0,2009,22.6
+2372,Ozone,502.0,2009,26.5
+2373,Ozone,402.0,2009,25.7
+2382,Ozone,404.0,2009,26.3
+2390,Ozone,401.0,2009,26.1
+2391,Nitrogen Dioxide,101.0,2009,19.5
+2392,Nitrogen Dioxide,501.0,2009,18.2
+2393,Nitrogen Dioxide,401.0,2009,21.9
+2398,Fine Particles,503.0,2009,10.7
+2400,Nitrogen Dioxide,302.0,2009,28.1
+2402,Fine Particles,302.0,2009,11.4
+2412,Fine Particles,401.0,2009,11.6
+2413,Fine Particles,101.0,2009,10.4
+2417,Fine Particles,208.0,2009,10.4
+2429,Fine Particles,502.0,2009,10.4
+2430,Fine Particles,402.0,2009,11.1
+2452,Ozone,207.0,2009,25.5
+2470,Nitrogen Dioxide,402.0,2009,21.7
+2471,Nitrogen Dioxide,504.0,2009,10.8
+2474,Nitrogen Dioxide,209.0,2009,19.0
+2476,Nitrogen Dioxide,503.0,2009,14.0
+2477,Nitrogen Dioxide,405.0,2009,19.9
+3390,Nitrogen Dioxide,408.0,2010,17.9
+3391,Nitrogen Dioxide,207.0,2010,19.0
+3392,Fine Particles,403.0,2010,11.6
+3393,Fine Particles,102.0,2010,11.8
+3396,Nitrogen Dioxide,409.0,2010,16.2
+3397,Nitrogen Dioxide,410.0,2010,10.1
+3398,Nitrogen Dioxide,302.0,2010,25.5
+3399,Nitrogen Dioxide,102.0,2010,17.9
+3403,Nitrogen Dioxide,105.0,2010,22.5
+3406,Fine Particles,207.0,2010,11.8
+3410,Fine Particles,202.0,2010,12.7
+3411,Nitrogen Dioxide,202.0,2010,22.6
+3420,Ozone,202.0,2010,30.9
+3421,Ozone,102.0,2010,34.0
+3429,Nitrogen Dioxide,206.0,2010,18.8
+3430,Fine Particles,409.0,2010,11.0
+3431,Ozone,410.0,2010,39.0
+3432,Ozone,210.0,2010,36.5
+3435,Fine Particles,304.0,2010,13.0
+3436,Fine Particles,204.0,2010,11.3
+3437,Fine Particles,302.0,2010,12.5
+3444,Fine Particles,305.0,2010,13.7
+3445,Fine Particles,303.0,2010,12.3
+3446,Fine Particles,203.0,2010,12.0
+3447,Fine Particles,105.0,2010,12.6
+3448,Nitrogen Dioxide,205.0,2010,19.5
+3449,Ozone,103.0,2010,32.5
+3455,Fine Particles,306.0,2010,14.8
+3456,Fine Particles,201.0,2010,13.3
+3469,Nitrogen Dioxide,209.0,2010,16.9
+3473,Fine Particles,310.0,2010,13.8
+3493,Nitrogen Dioxide,106.0,2010,23.7
+3495,Nitrogen Dioxide,103.0,2010,19.7
+3496,Nitrogen Dioxide,101.0,2010,18.1
+3499,Nitrogen Dioxide,306.0,2010,34.8
+3506,Nitrogen Dioxide,308.0,2010,29.6
+3508,Fine Particles,308.0,2010,13.7
+3532,Fine Particles,106.0,2010,12.7
+3534,Fine Particles,104.0,2010,11.9
+3536,Ozone,309.0,2010,28.4
+3537,Ozone,206.0,2010,33.4
+3538,Nitrogen Dioxide,301.0,2010,22.9
+3539,Ozone,301.0,2010,30.5
+3540,Ozone,501.0,2010,32.7
+3541,Nitrogen Dioxide,303.0,2010,24.4
+3543,Ozone,211.0,2010,32.4
+3544,Fine Particles,210.0,2010,11.4
+3545,Fine Particles,205.0,2010,12.5
+3547,Fine Particles,404.0,2010,11.3
+3548,Ozone,302.0,2010,29.8
+3549,Ozone,209.0,2010,34.5
+3550,Ozone,303.0,2010,30.5
+3551,Ozone,305.0,2010,28.2
+3553,Ozone,405.0,2010,33.3
+3554,Ozone,304.0,2010,28.7
+3559,Nitrogen Dioxide,307.0,2010,38.0
+3560,Ozone,107.0,2010,33.3
+3562,Fine Particles,307.0,2010,15.4
+3563,Fine Particles,408.0,2010,11.4
+3566,Ozone,208.0,2010,36.1
+3567,Ozone,308.0,2010,27.9
+3592,Nitrogen Dioxide,305.0,2010,29.0
+3594,Nitrogen Dioxide,309.0,2010,27.4
+3596,Fine Particles,503.0,2010,11.7
+3597,Fine Particles,103.0,2010,12.0
+3605,Fine Particles,401.0,2010,12.8
+3607,Nitrogen Dioxide,401.0,2010,20.9
+3609,Nitrogen Dioxide,304.0,2010,26.7
+3618,Nitrogen Dioxide,203.0,2010,20.9
+3619,Nitrogen Dioxide,310.0,2010,31.3
+3620,Nitrogen Dioxide,404.0,2010,16.0
+3621,Nitrogen Dioxide,104.0,2010,17.9
+3622,Nitrogen Dioxide,210.0,2010,14.0
+3624,Fine Particles,309.0,2010,13.1
+3625,Fine Particles,206.0,2010,11.7
+3626,Nitrogen Dioxide,211.0,2010,21.3
+3627,Fine Particles,211.0,2010,13.9
+3630,Fine Particles,405.0,2010,11.7
+3631,Ozone,310.0,2010,26.9
+3632,Nitrogen Dioxide,201.0,2010,21.4
+3633,Fine Particles,301.0,2010,12.1
+3634,Fine Particles,101.0,2010,11.8
+3642,Ozone,101.0,2010,31.9
+3646,Ozone,201.0,2010,32.5
+3647,Ozone,401.0,2010,33.0
+3653,Ozone,105.0,2010,31.6
+3655,Ozone,205.0,2010,32.7
+3656,Ozone,203.0,2010,32.3
+3667,Ozone,306.0,2010,25.6
+3668,Ozone,406.0,2010,33.2
+3673,Fine Particles,502.0,2010,11.4
+3674,Ozone,404.0,2010,33.5
+3676,Ozone,204.0,2010,34.0
+3677,Ozone,104.0,2010,34.3
+3678,Ozone,504.0,2010,36.5
+3679,Ozone,502.0,2010,34.3
+3680,Ozone,402.0,2010,33.2
+3681,Nitrogen Dioxide,502.0,2010,13.7
+3689,Nitrogen Dioxide,107.0,2010,20.8
+3690,Nitrogen Dioxide,208.0,2010,14.3
+3702,Ozone,409.0,2010,34.3
+3703,Ozone,106.0,2010,31.3
+3704,Nitrogen Dioxide,204.0,2010,18.1
+3705,Fine Particles,209.0,2010,11.6
+3708,Fine Particles,410.0,2010,10.7
+3710,Ozone,503.0,2010,34.5
+3711,Ozone,403.0,2010,34.0
+3712,Nitrogen Dioxide,503.0,2010,13.1
+3713,Nitrogen Dioxide,405.0,2010,18.5
+3714,Nitrogen Dioxide,403.0,2010,17.8
+3715,Nitrogen Dioxide,501.0,2010,17.1
+3723,Fine Particles,504.0,2010,11.3
+3725,Nitrogen Dioxide,504.0,2010,9.5
+3726,Fine Particles,406.0,2010,11.4
+3727,Nitrogen Dioxide,406.0,2010,18.0
+3732,Nitrogen Dioxide,402.0,2010,20.3
+3734,Fine Particles,501.0,2010,11.7
+3740,Nitrogen Dioxide,407.0,2010,17.7
+3742,Fine Particles,407.0,2010,11.3
+3743,Fine Particles,208.0,2010,11.4
+3744,Fine Particles,107.0,2010,11.1
+3751,Fine Particles,402.0,2010,12.3
+3764,Ozone,307.0,2010,23.9
+3767,Ozone,407.0,2010,34.0
+3768,Ozone,207.0,2010,33.3
+3786,Ozone,408.0,2010,33.5
+4591,Fine Particles,409.0,2011,10.8
+4592,Fine Particles,104.0,2011,11.5
+4593,Nitrogen Dioxide,201.0,2011,21.3
+4594,Nitrogen Dioxide,304.0,2011,25.8
+4597,Nitrogen Dioxide,409.0,2011,15.3
+4598,Nitrogen Dioxide,410.0,2011,9.9
+4599,Nitrogen Dioxide,202.0,2011,22.2
+4600,Nitrogen Dioxide,302.0,2011,23.9
+4601,Nitrogen Dioxide,306.0,2011,34.6
+4604,Nitrogen Dioxide,305.0,2011,28.6
+4605,Nitrogen Dioxide,403.0,2011,17.4
+4606,Nitrogen Dioxide,303.0,2011,23.3
+4609,Ozone,207.0,2011,32.7
+4610,Ozone,107.0,2011,33.4
+4611,Fine Particles,207.0,2011,11.4
+4613,Fine Particles,402.0,2011,11.9
+4615,Fine Particles,306.0,2011,14.2
+4628,Nitrogen Dioxide,204.0,2011,18.1
+4630,Nitrogen Dioxide,206.0,2011,18.6
+4631,Fine Particles,410.0,2011,10.6
+4632,Nitrogen Dioxide,310.0,2011,31.1
+4634,Ozone,410.0,2011,39.0
+4635,Ozone,210.0,2011,36.6
+4637,Fine Particles,206.0,2011,11.3
+4640,Fine Particles,210.0,2011,11.1
+4642,Fine Particles,304.0,2011,12.5
+4643,Fine Particles,204.0,2011,10.9
+4644,Fine Particles,302.0,2011,11.9
+4650,Fine Particles,211.0,2011,13.5
+4651,Ozone,103.0,2011,32.1
+4655,Ozone,101.0,2011,31.2
+4672,Nitrogen Dioxide,205.0,2011,19.2
+4676,Fine Particles,303.0,2011,11.8
+4687,Nitrogen Dioxide,501.0,2011,16.9
+4692,Nitrogen Dioxide,106.0,2011,22.0
+4695,Nitrogen Dioxide,101.0,2011,16.3
+4728,Fine Particles,209.0,2011,11.2
+4729,Fine Particles,202.0,2011,12.3
+4732,Fine Particles,401.0,2011,12.3
+4733,Ozone,409.0,2011,33.6
+4734,Ozone,106.0,2011,31.1
+4735,Ozone,309.0,2011,26.9
+4736,Ozone,206.0,2011,32.7
+4737,Ozone,301.0,2011,30.1
+4738,Ozone,501.0,2011,31.0
+4739,Fine Particles,105.0,2011,12.1
+4740,Fine Particles,305.0,2011,13.1
+4741,Nitrogen Dioxide,105.0,2011,21.0
+4742,Ozone,105.0,2011,31.5
+4743,Ozone,205.0,2011,31.5
+4745,Ozone,404.0,2011,33.0
+4746,Ozone,211.0,2011,31.5
+4747,Fine Particles,309.0,2011,12.6
+4748,Fine Particles,106.0,2011,12.1
+4750,Ozone,306.0,2011,24.2
+4751,Fine Particles,103.0,2011,11.5
+4752,Fine Particles,405.0,2011,11.4
+4753,Fine Particles,205.0,2011,12.0
+4754,Fine Particles,201.0,2011,12.8
+4756,Fine Particles,404.0,2011,11.0
+4757,Ozone,204.0,2011,33.5
+4761,Ozone,203.0,2011,31.4
+4762,Ozone,304.0,2011,27.9
+4770,Fine Particles,107.0,2011,10.7
+4771,Fine Particles,208.0,2011,11.1
+4772,Ozone,308.0,2011,26.2
+4774,Fine Particles,307.0,2011,14.8
+4775,Fine Particles,408.0,2011,11.2
+4779,Ozone,208.0,2011,35.9
+4803,Fine Particles,310.0,2011,13.2
+4806,Nitrogen Dioxide,203.0,2011,20.7
+4818,Nitrogen Dioxide,404.0,2011,15.4
+4825,Nitrogen Dioxide,503.0,2011,12.8
+4826,Nitrogen Dioxide,103.0,2011,18.4
+4827,Nitrogen Dioxide,309.0,2011,27.2
+4828,Nitrogen Dioxide,402.0,2011,20.3
+4829,Nitrogen Dioxide,104.0,2011,17.2
+4830,Nitrogen Dioxide,209.0,2011,17.0
+4831,Nitrogen Dioxide,210.0,2011,14.2
+4833,Nitrogen Dioxide,211.0,2011,21.2
+4834,Nitrogen Dioxide,301.0,2011,20.9
+4835,Fine Particles,403.0,2011,11.2
+4838,Nitrogen Dioxide,102.0,2011,17.2
+4839,Nitrogen Dioxide,406.0,2011,17.6
+4840,Ozone,209.0,2011,33.9
+4842,Fine Particles,301.0,2011,11.6
+4843,Fine Particles,101.0,2011,11.3
+4844,Fine Particles,102.0,2011,11.4
+4845,Fine Particles,406.0,2011,11.1
+4849,Ozone,310.0,2011,25.1
+4857,Ozone,201.0,2011,31.6
+4858,Ozone,401.0,2011,32.7
+4861,Ozone,403.0,2011,33.9
+4862,Ozone,405.0,2011,33.0
+4863,Ozone,305.0,2011,27.5
+4872,Ozone,102.0,2011,33.4
+4873,Ozone,302.0,2011,29.4
+4874,Ozone,202.0,2011,29.5
+4875,Ozone,406.0,2011,32.9
+4880,Ozone,104.0,2011,34.2
+4882,Ozone,504.0,2011,35.9
+4885,Nitrogen Dioxide,502.0,2011,13.9
+4893,Fine Particles,308.0,2011,13.1
+4894,Nitrogen Dioxide,207.0,2011,18.8
+4907,Nitrogen Dioxide,405.0,2011,18.5
+4908,Ozone,303.0,2011,30.3
+4911,Fine Particles,203.0,2011,11.5
+4912,Ozone,503.0,2011,33.1
+4913,Nitrogen Dioxide,401.0,2011,20.7
+4920,Fine Particles,504.0,2011,11.0
+4922,Nitrogen Dioxide,504.0,2011,8.5
+4926,Ozone,502.0,2011,33.2
+4927,Ozone,402.0,2011,33.0
+4931,Fine Particles,501.0,2011,11.3
+4936,Nitrogen Dioxide,208.0,2011,14.3
+4937,Nitrogen Dioxide,308.0,2011,29.3
+4938,Nitrogen Dioxide,307.0,2011,38.1
+4939,Nitrogen Dioxide,407.0,2011,17.5
+4940,Nitrogen Dioxide,107.0,2011,19.7
+4942,Nitrogen Dioxide,408.0,2011,17.3
+4948,Fine Particles,502.0,2011,11.0
+4953,Fine Particles,503.0,2011,11.3
+4962,Ozone,307.0,2011,22.6
+4963,Ozone,408.0,2011,33.0
+4987,Ozone,407.0,2011,33.6
+4991,Fine Particles,407.0,2011,11.0
+6058,Fine Particles,209.0,2012,10.0
+6059,Fine Particles,409.0,2012,9.6
+6060,Fine Particles,410.0,2012,9.4
+6061,Fine Particles,211.0,2012,12.3
+6062,Fine Particles,304.0,2012,11.4
+6063,Fine Particles,204.0,2012,9.7
+6064,Fine Particles,104.0,2012,10.3
+6066,Nitrogen Dioxide,408.0,2012,16.2
+6072,Fine Particles,305.0,2012,12.1
+6073,Fine Particles,403.0,2012,10.1
+6074,Fine Particles,202.0,2012,11.1
+6080,Nitrogen Dioxide,302.0,2012,21.8
+6081,Nitrogen Dioxide,202.0,2012,20.2
+6083,Nitrogen Dioxide,306.0,2012,32.9
+6100,Ozone,202.0,2012,30.7
+6106,Fine Particles,106.0,2012,11.0
+6110,Ozone,305.0,2012,29.2
+6111,Ozone,205.0,2012,32.3
+6119,Ozone,101.0,2012,33.7
+6120,Fine Particles,103.0,2012,10.4
+6126,Fine Particles,303.0,2012,10.6
+6135,Nitrogen Dioxide,207.0,2012,16.9
+6136,Fine Particles,306.0,2012,13.3
+6140,Fine Particles,205.0,2012,10.9
+6143,Nitrogen Dioxide,401.0,2012,18.8
+6144,Nitrogen Dioxide,205.0,2012,17.1
+6145,Nitrogen Dioxide,103.0,2012,17.1
+6146,Nitrogen Dioxide,309.0,2012,25.3
+6148,Ozone,409.0,2012,34.8
+6149,Ozone,210.0,2012,37.1
+6154,Ozone,102.0,2012,35.1
+6156,Ozone,401.0,2012,33.9
+6157,Ozone,301.0,2012,32.7
+6164,Fine Particles,308.0,2012,12.1
+6166,Ozone,211.0,2012,32.3
+6172,Fine Particles,302.0,2012,10.9
+6183,Nitrogen Dioxide,107.0,2012,17.9
+6188,Ozone,309.0,2012,28.4
+6189,Ozone,206.0,2012,33.4
+6190,Ozone,105.0,2012,33.4
+6193,Ozone,501.0,2012,31.1
+6198,Ozone,306.0,2012,26.0
+6203,Ozone,204.0,2012,34.0
+6206,Nitrogen Dioxide,208.0,2012,12.4
+6209,Ozone,410.0,2012,40.3
+6210,Ozone,209.0,2012,34.3
+6211,Fine Particles,210.0,2012,9.9
+6213,Ozone,201.0,2012,32.7
+6214,Ozone,203.0,2012,32.1
+6215,Ozone,403.0,2012,34.5
+6216,Ozone,304.0,2012,30.2
+6217,Fine Particles,201.0,2012,11.7
+6220,Fine Particles,208.0,2012,10.0
+6224,Fine Particles,309.0,2012,11.5
+6225,Nitrogen Dioxide,106.0,2012,20.1
+6229,Fine Particles,401.0,2012,11.2
+6230,Nitrogen Dioxide,303.0,2012,21.2
+6231,Nitrogen Dioxide,105.0,2012,19.4
+6232,Fine Particles,503.0,2012,10.1
+6233,Ozone,107.0,2012,35.0
+6234,Ozone,308.0,2012,27.9
+6235,Ozone,307.0,2012,24.1
+6236,Ozone,208.0,2012,36.6
+6237,Ozone,407.0,2012,34.2
+6243,Nitrogen Dioxide,210.0,2012,12.3
+6249,Ozone,207.0,2012,33.4
+6253,Fine Particles,307.0,2012,14.0
+6254,Fine Particles,408.0,2012,10.0
+6255,Fine Particles,407.0,2012,9.9
+6260,Nitrogen Dioxide,410.0,2012,8.3
+6261,Nitrogen Dioxide,310.0,2012,29.3
+6263,Nitrogen Dioxide,504.0,2012,8.2
+6264,Nitrogen Dioxide,404.0,2012,14.6
+6265,Nitrogen Dioxide,403.0,2012,16.5
+6266,Nitrogen Dioxide,405.0,2012,17.2
+6267,Nitrogen Dioxide,203.0,2012,19.0
+6269,Fine Particles,101.0,2012,10.2
+6270,Fine Particles,301.0,2012,10.5
+6271,Nitrogen Dioxide,102.0,2012,16.3
+6272,Fine Particles,206.0,2012,10.2
+6280,Nitrogen Dioxide,402.0,2012,18.9
+6281,Ozone,404.0,2012,33.8
+6285,Fine Particles,102.0,2012,10.2
+6288,Nitrogen Dioxide,301.0,2012,18.9
+6312,Nitrogen Dioxide,407.0,2012,16.3
+6313,Nitrogen Dioxide,307.0,2012,36.7
+6314,Fine Particles,107.0,2012,9.5
+6332,Nitrogen Dioxide,501.0,2012,15.5
+6333,Nitrogen Dioxide,201.0,2012,19.4
+6338,Ozone,103.0,2012,34.1
+6339,Ozone,405.0,2012,33.3
+6340,Nitrogen Dioxide,211.0,2012,19.5
+6342,Ozone,104.0,2012,35.4
+6343,Ozone,503.0,2012,32.8
+6348,Nitrogen Dioxide,206.0,2012,16.7
+6349,Ozone,310.0,2012,26.4
+6352,Ozone,302.0,2012,31.7
+6362,Fine Particles,310.0,2012,12.3
+6363,Ozone,504.0,2012,35.3
+6364,Nitrogen Dioxide,304.0,2012,23.6
+6367,Fine Particles,406.0,2012,9.9
+6373,Nitrogen Dioxide,502.0,2012,12.2
+6380,Nitrogen Dioxide,305.0,2012,26.8
+6381,Fine Particles,203.0,2012,10.4
+6384,Fine Particles,405.0,2012,10.2
+6385,Fine Particles,105.0,2012,11.0
+6386,Ozone,303.0,2012,32.3
+6388,Ozone,502.0,2012,33.1
+6389,Ozone,402.0,2012,33.6
+6390,Ozone,106.0,2012,33.2
+6393,Fine Particles,504.0,2012,9.8
+6394,Fine Particles,404.0,2012,9.8
+6401,Ozone,406.0,2012,33.4
+6406,Fine Particles,207.0,2012,10.3
+6411,Ozone,408.0,2012,33.8
+6415,Fine Particles,402.0,2012,10.8
+6426,Nitrogen Dioxide,308.0,2012,27.3
+6439,Fine Particles,501.0,2012,10.1
+6442,Fine Particles,502.0,2012,9.8
+6446,Nitrogen Dioxide,209.0,2012,15.0
+6450,Nitrogen Dioxide,409.0,2012,14.3
+6452,Nitrogen Dioxide,101.0,2012,14.8
+6453,Nitrogen Dioxide,503.0,2012,11.8
+6454,Nitrogen Dioxide,204.0,2012,16.6
+6455,Nitrogen Dioxide,104.0,2012,16.1
+6458,Nitrogen Dioxide,406.0,2012,16.6
+7189,Fine Particles,209.0,2013,9.8
+7190,Fine Particles,409.0,2013,9.8
+7191,Fine Particles,410.0,2013,9.5
+7192,Fine Particles,211.0,2013,12.2
+7193,Fine Particles,304.0,2013,11.4
+7194,Fine Particles,104.0,2013,10.3
+7195,Fine Particles,308.0,2013,12.0
+7197,Fine Particles,301.0,2013,10.4
+7198,Fine Particles,201.0,2013,11.5
+7203,Nitrogen Dioxide,407.0,2013,16.6
+7205,Fine Particles,309.0,2013,11.5
+7207,Nitrogen Dioxide,209.0,2013,14.0
+7208,Nitrogen Dioxide,204.0,2013,16.6
+7209,Fine Particles,302.0,2013,10.8
+7210,Fine Particles,102.0,2013,10.2
+7211,Fine Particles,202.0,2013,11.0
+7218,Nitrogen Dioxide,302.0,2013,21.5
+7220,Fine Particles,105.0,2013,10.9
+7241,Ozone,202.0,2013,28.0
+7247,Ozone,310.0,2013,24.3
+7250,Nitrogen Dioxide,405.0,2013,16.9
+7251,Ozone,305.0,2013,26.3
+7252,Ozone,103.0,2013,30.8
+7261,Fine Particles,303.0,2013,10.5
+7264,Fine Particles,310.0,2013,12.2
+7272,Ozone,208.0,2013,33.7
+7276,Nitrogen Dioxide,310.0,2013,27.9
+7277,Nitrogen Dioxide,101.0,2013,14.2
+7279,Nitrogen Dioxide,202.0,2013,20.0
+7280,Nitrogen Dioxide,102.0,2013,14.3
+7282,Fine Particles,501.0,2013,9.6
+7283,Fine Particles,306.0,2013,13.4
+7284,Nitrogen Dioxide,501.0,2013,15.0
+7285,Nitrogen Dioxide,303.0,2013,20.7
+7286,Nitrogen Dioxide,103.0,2013,16.0
+7287,Ozone,210.0,2013,33.9
+7288,Ozone,209.0,2013,31.4
+7291,Ozone,101.0,2013,30.4
+7292,Ozone,301.0,2013,29.3
+7302,Fine Particles,207.0,2013,10.2
+7305,Fine Particles,203.0,2013,10.3
+7316,Ozone,106.0,2013,29.9
+7318,Nitrogen Dioxide,207.0,2013,16.5
+7320,Nitrogen Dioxide,308.0,2013,26.1
+7324,Ozone,309.0,2013,25.7
+7325,Ozone,206.0,2013,30.6
+7330,Ozone,205.0,2013,29.7
+7331,Ozone,303.0,2013,28.9
+7333,Ozone,501.0,2013,28.8
+7340,Ozone,404.0,2013,30.8
+7341,Ozone,204.0,2013,31.5
+7349,Ozone,403.0,2013,31.4
+7350,Fine Particles,305.0,2013,12.2
+7351,Fine Particles,103.0,2013,10.3
+7352,Fine Particles,205.0,2013,10.6
+7353,Ozone,304.0,2013,26.9
+7355,Ozone,306.0,2013,23.5
+7356,Ozone,302.0,2013,28.4
+7360,Fine Particles,208.0,2013,9.9
+7361,Fine Particles,107.0,2013,9.4
+7368,Nitrogen Dioxide,106.0,2013,19.9
+7373,Nitrogen Dioxide,301.0,2013,19.0
+7375,Fine Particles,401.0,2013,11.1
+7377,Nitrogen Dioxide,105.0,2013,18.9
+7378,Ozone,107.0,2013,31.6
+7379,Ozone,308.0,2013,25.2
+7380,Ozone,307.0,2013,21.9
+7381,Ozone,408.0,2013,31.1
+7384,Nitrogen Dioxide,306.0,2013,30.7
+7385,Fine Particles,503.0,2013,9.5
+7386,Nitrogen Dioxide,203.0,2013,18.7
+7390,Nitrogen Dioxide,304.0,2013,22.7
+7391,Nitrogen Dioxide,404.0,2013,14.1
+7402,Nitrogen Dioxide,309.0,2013,24.2
+7405,Nitrogen Dioxide,211.0,2013,19.1
+7406,Nitrogen Dioxide,503.0,2013,11.1
+7407,Nitrogen Dioxide,205.0,2013,16.8
+7408,Fine Particles,101.0,2013,10.0
+7409,Fine Particles,210.0,2013,9.7
+7411,Fine Particles,307.0,2013,14.1
+7416,Nitrogen Dioxide,402.0,2013,18.1
+7417,Fine Particles,502.0,2013,9.3
+7419,Fine Particles,403.0,2013,10.1
+7423,Ozone,406.0,2013,30.7
+7429,Nitrogen Dioxide,107.0,2013,17.5
+7433,Nitrogen Dioxide,307.0,2013,33.9
+7441,Ozone,402.0,2013,30.7
+7453,Nitrogen Dioxide,408.0,2013,16.6
+7457,Nitrogen Dioxide,208.0,2013,12.1
+7474,Nitrogen Dioxide,201.0,2013,18.9
+7475,Ozone,201.0,2013,29.8
+7477,Ozone,405.0,2013,30.8
+7478,Ozone,203.0,2013,29.7
+7479,Fine Particles,405.0,2013,10.2
+7484,Nitrogen Dioxide,206.0,2013,15.9
+7485,Nitrogen Dioxide,410.0,2013,8.0
+7486,Nitrogen Dioxide,210.0,2013,11.0
+7489,Fine Particles,406.0,2013,10.0
+7491,Ozone,102.0,2013,31.7
+7496,Fine Particles,206.0,2013,10.0
+7497,Ozone,104.0,2013,32.1
+7498,Ozone,504.0,2013,32.7
+7507,Nitrogen Dioxide,502.0,2013,11.3
+7513,Nitrogen Dioxide,305.0,2013,25.2
+7516,Ozone,105.0,2013,30.2
+7517,Ozone,503.0,2013,30.5
+7520,Fine Particles,106.0,2013,11.0
+7521,Ozone,409.0,2013,31.8
+7522,Ozone,410.0,2013,36.8
+7524,Ozone,502.0,2013,30.6
+7526,Fine Particles,204.0,2013,9.7
+7530,Fine Particles,504.0,2013,9.1
+7531,Fine Particles,404.0,2013,9.9
+7532,Ozone,211.0,2013,29.7
+7537,Ozone,401.0,2013,30.6
+7551,Ozone,407.0,2013,31.7
+7553,Ozone,207.0,2013,30.7
+7566,Fine Particles,408.0,2013,10.1
+7567,Fine Particles,407.0,2013,9.9
+7580,Fine Particles,402.0,2013,10.7
+7587,Nitrogen Dioxide,409.0,2013,14.6
+7588,Nitrogen Dioxide,401.0,2013,18.0
+7590,Nitrogen Dioxide,104.0,2013,14.7
+7591,Nitrogen Dioxide,504.0,2013,7.6
+7593,Nitrogen Dioxide,403.0,2013,15.6
+7595,Nitrogen Dioxide,406.0,2013,16.4
+8272,Fine Particles,307.0,2014,12.4
+8273,Fine Particles,211.0,2014,10.9
+8275,Nitrogen Dioxide,211.0,2014,17.0
+8277,Fine Particles,306.0,2014,11.8
+8278,Nitrogen Dioxide,106.0,2014,18.3
+8279,Nitrogen Dioxide,410.0,2014,7.4
+8280,Nitrogen Dioxide,202.0,2014,17.8
+8281,Nitrogen Dioxide,306.0,2014,28.4
+8288,Nitrogen Dioxide,105.0,2014,17.8
+8300,Fine Particles,202.0,2014,9.9
+8301,Fine Particles,102.0,2014,8.7
+8303,Nitrogen Dioxide,102.0,2014,15.4
+8306,Fine Particles,210.0,2014,8.0
+8307,Fine Particles,410.0,2014,7.4
+8312,Nitrogen Dioxide,206.0,2014,15.1
+8313,Nitrogen Dioxide,210.0,2014,11.8
+8316,Fine Particles,303.0,2014,8.9
+8319,Nitrogen Dioxide,201.0,2014,17.3
+8320,Fine Particles,205.0,2014,9.5
+8326,Nitrogen Dioxide,309.0,2014,22.1
+8334,Fine Particles,309.0,2014,10.2
+8335,Fine Particles,310.0,2014,10.9
+8337,Fine Particles,201.0,2014,10.4
+8338,Nitrogen Dioxide,103.0,2014,15.8
+8339,Nitrogen Dioxide,205.0,2014,15.2
+8342,Fine Particles,103.0,2014,8.8
+8346,Nitrogen Dioxide,101.0,2014,13.6
+8347,Nitrogen Dioxide,501.0,2014,13.1
+8349,Nitrogen Dioxide,301.0,2014,17.1
+8355,Fine Particles,101.0,2014,8.7
+8363,Nitrogen Dioxide,107.0,2014,16.4
+8364,Fine Particles,107.0,2014,7.6
+8365,Fine Particles,207.0,2014,8.7
+8366,Nitrogen Dioxide,207.0,2014,15.1
+8374,Fine Particles,308.0,2014,10.8
+8379,Fine Particles,302.0,2014,9.1
+8380,Fine Particles,402.0,2014,9.1
+8381,Fine Particles,501.0,2014,8.3
+8382,Fine Particles,401.0,2014,9.6
+8383,Fine Particles,301.0,2014,8.9
+8389,Fine Particles,209.0,2014,8.3
+8397,Ozone,410.0,2014,36.3
+8403,Ozone,101.0,2014,30.5
+8404,Ozone,401.0,2014,30.7
+8405,Ozone,301.0,2014,29.5
+8406,Ozone,501.0,2014,30.2
+8409,Fine Particles,304.0,2014,9.8
+8416,Ozone,210.0,2014,32.6
+8417,Ozone,106.0,2014,29.9
+8418,Ozone,309.0,2014,26.9
+8419,Ozone,206.0,2014,30.7
+8424,Ozone,205.0,2014,30.6
+8425,Ozone,203.0,2014,30.3
+8426,Ozone,105.0,2014,30.1
+8427,Ozone,103.0,2014,30.7
+8428,Ozone,303.0,2014,28.9
+8433,Ozone,202.0,2014,29.3
+8434,Ozone,102.0,2014,31.5
+8435,Ozone,306.0,2014,24.6
+8436,Ozone,404.0,2014,32.3
+8437,Ozone,104.0,2014,31.9
+8438,Ozone,304.0,2014,27.4
+8446,Fine Particles,305.0,2014,10.4
+8449,Fine Particles,104.0,2014,8.6
+8450,Fine Particles,204.0,2014,8.1
+8451,Fine Particles,408.0,2014,8.1
+8452,Fine Particles,208.0,2014,8.2
+8460,Nitrogen Dioxide,209.0,2014,13.8
+8461,Nitrogen Dioxide,303.0,2014,19.2
+8462,Nitrogen Dioxide,305.0,2014,23.5
+8464,Nitrogen Dioxide,104.0,2014,15.0
+8465,Nitrogen Dioxide,304.0,2014,20.9
+8466,Nitrogen Dioxide,404.0,2014,12.6
+8467,Nitrogen Dioxide,406.0,2014,14.1
+8469,Nitrogen Dioxide,409.0,2014,12.1
+8474,Ozone,308.0,2014,26.7
+8476,Ozone,107.0,2014,31.4
+8477,Ozone,207.0,2014,30.9
+8478,Ozone,208.0,2014,33.3
+8479,Nitrogen Dioxide,503.0,2014,9.9
+8481,Nitrogen Dioxide,402.0,2014,16.6
+8484,Fine Particles,407.0,2014,8.1
+8488,Nitrogen Dioxide,307.0,2014,31.6
+8492,Nitrogen Dioxide,208.0,2014,11.1
+8497,Fine Particles,206.0,2014,8.6
+8503,Fine Particles,403.0,2014,8.2
+8518,Fine Particles,502.0,2014,7.9
+8532,Fine Particles,409.0,2014,7.7
+8536,Fine Particles,405.0,2014,8.5
+8538,Fine Particles,406.0,2014,8.0
+8539,Nitrogen Dioxide,403.0,2014,14.6
+8540,Nitrogen Dioxide,405.0,2014,14.6
+8549,Nitrogen Dioxide,308.0,2014,23.9
+8557,Nitrogen Dioxide,407.0,2014,13.6
+8567,Fine Particles,203.0,2014,9.0
+8568,Fine Particles,503.0,2014,8.1
+8569,Fine Particles,504.0,2014,7.6
+8570,Fine Particles,404.0,2014,8.0
+8573,Ozone,209.0,2014,31.3
+8574,Ozone,310.0,2014,26.0
+8581,Ozone,402.0,2014,30.9
+8582,Ozone,502.0,2014,31.1
+8585,Fine Particles,105.0,2014,9.3
+8587,Nitrogen Dioxide,204.0,2014,14.2
+8589,Ozone,204.0,2014,32.0
+8590,Nitrogen Dioxide,203.0,2014,16.5
+8591,Ozone,403.0,2014,32.0
+8599,Fine Particles,106.0,2014,9.3
+8606,Ozone,302.0,2014,28.6
+8618,Ozone,409.0,2014,33.6
+8621,Ozone,405.0,2014,31.3
+8622,Ozone,305.0,2014,26.7
+8623,Ozone,503.0,2014,31.1
+8627,Ozone,406.0,2014,31.8
+8629,Nitrogen Dioxide,310.0,2014,25.2
+8631,Ozone,211.0,2014,30.4
+8632,Ozone,504.0,2014,32.0
+8634,Nitrogen Dioxide,504.0,2014,7.4
+8635,Nitrogen Dioxide,502.0,2014,10.6
+8636,Ozone,201.0,2014,30.5
+8637,Nitrogen Dioxide,401.0,2014,16.9
+8638,Nitrogen Dioxide,302.0,2014,19.5
+8641,Ozone,307.0,2014,22.9
+8642,Ozone,408.0,2014,32.6
+8668,Ozone,407.0,2014,32.5
+8689,Nitrogen Dioxide,408.0,2014,13.5
+9894,Nitrogen Dioxide,409.0,2015,12.0
+9895,Nitrogen Dioxide,404.0,2015,12.7
+9898,Ozone,102.0,2015,29.9
+9899,Nitrogen Dioxide,302.0,2015,19.0
+9901,Fine Particles,211.0,2015,10.2
+9902,Nitrogen Dioxide,305.0,2015,21.6
+9903,Nitrogen Dioxide,203.0,2015,16.0
+9904,Nitrogen Dioxide,209.0,2015,13.3
+9905,Nitrogen Dioxide,206.0,2015,14.6
+9906,Fine Particles,209.0,2015,9.0
+9907,Fine Particles,409.0,2015,8.8
+9912,Ozone,409.0,2015,32.5
+9913,Fine Particles,304.0,2015,10.4
+9917,Fine Particles,204.0,2015,9.5
+9918,Nitrogen Dioxide,303.0,2015,18.6
+9919,Ozone,204.0,2015,32.6
+9922,Nitrogen Dioxide,204.0,2015,13.9
+9924,Nitrogen Dioxide,309.0,2015,20.8
+9932,Fine Particles,105.0,2015,10.3
+9936,Fine Particles,210.0,2015,8.8
+9937,Fine Particles,206.0,2015,9.2
+9938,Nitrogen Dioxide,205.0,2015,15.0
+9939,Ozone,305.0,2015,28.1
+9945,Ozone,101.0,2015,28.7
+9954,Fine Particles,302.0,2015,10.0
+9955,Fine Particles,301.0,2015,9.9
+9956,Nitrogen Dioxide,106.0,2015,18.2
+9958,Nitrogen Dioxide,105.0,2015,17.9
+9963,Fine Particles,207.0,2015,9.3
+9965,Nitrogen Dioxide,207.0,2015,14.5
+9966,Ozone,207.0,2015,32.2
+9969,Fine Particles,203.0,2015,9.5
+9970,Fine Particles,303.0,2015,10.2
+9971,Fine Particles,103.0,2015,9.7
+9974,Fine Particles,202.0,2015,10.3
+9978,Ozone,105.0,2015,29.7
+9979,Ozone,304.0,2015,28.1
+10014,Fine Particles,107.0,2015,10.4
+10019,Fine Particles,201.0,2015,11.0
+10022,Fine Particles,306.0,2015,12.0
+10023,Fine Particles,102.0,2015,9.7
+10025,Fine Particles,309.0,2015,10.5
+10033,Ozone,301.0,2015,29.0
+10036,Ozone,303.0,2015,29.6
+10037,Ozone,306.0,2015,26.1
+10038,Ozone,202.0,2015,29.8
+10039,Nitrogen Dioxide,103.0,2015,16.0
+10042,Nitrogen Dioxide,201.0,2015,17.0
+10043,Nitrogen Dioxide,301.0,2015,17.3
+10044,Nitrogen Dioxide,503.0,2015,9.6
+10046,Nitrogen Dioxide,202.0,2015,17.4
+10068,Fine Particles,410.0,2015,8.3
+10070,Fine Particles,307.0,2015,12.5
+10071,Fine Particles,401.0,2015,10.5
+10072,Fine Particles,501.0,2015,9.1
+10083,Fine Particles,205.0,2015,10.0
+10087,Fine Particles,101.0,2015,9.6
+10090,Nitrogen Dioxide,107.0,2015,16.5
+10092,Nitrogen Dioxide,401.0,2015,16.7
+10095,Fine Particles,305.0,2015,10.9
+10096,Nitrogen Dioxide,306.0,2015,25.6
+10097,Fine Particles,406.0,2015,9.1
+10099,Fine Particles,503.0,2015,8.9
+10101,Fine Particles,504.0,2015,8.4
+10102,Fine Particles,310.0,2015,11.0
+10103,Ozone,209.0,2015,32.8
+10106,Ozone,309.0,2015,27.7
+10107,Ozone,106.0,2015,29.9
+10108,Ozone,310.0,2015,27.0
+10111,Ozone,211.0,2015,31.1
+10112,Nitrogen Dioxide,501.0,2015,13.1
+10118,Nitrogen Dioxide,211.0,2015,16.5
+10123,Nitrogen Dioxide,410.0,2015,7.0
+10124,Nitrogen Dioxide,210.0,2015,11.1
+10125,Ozone,205.0,2015,31.3
+10130,Nitrogen Dioxide,304.0,2015,19.8
+10131,Ozone,502.0,2015,31.8
+10137,Nitrogen Dioxide,102.0,2015,15.8
+10138,Nitrogen Dioxide,406.0,2015,14.0
+10140,Fine Particles,407.0,2015,8.9
+10145,Fine Particles,408.0,2015,9.1
+10152,Fine Particles,308.0,2015,11.0
+10154,Fine Particles,208.0,2015,9.0
+10155,Nitrogen Dioxide,405.0,2015,14.3
+10156,Ozone,103.0,2015,29.5
+10157,Ozone,403.0,2015,31.9
+10160,Ozone,210.0,2015,35.0
+10161,Ozone,206.0,2015,32.1
+10162,Ozone,302.0,2015,29.0
+10169,Nitrogen Dioxide,208.0,2015,10.8
+10175,Ozone,104.0,2015,31.4
+10178,Ozone,401.0,2015,31.4
+10183,Nitrogen Dioxide,307.0,2015,27.7
+10184,Nitrogen Dioxide,308.0,2015,22.4
+10186,Ozone,203.0,2015,31.2
+10187,Ozone,410.0,2015,37.4
+10189,Ozone,406.0,2015,31.5
+10190,Ozone,503.0,2015,31.7
+10191,Ozone,405.0,2015,31.8
+10193,Ozone,402.0,2015,31.6
+10194,Ozone,201.0,2015,31.0
+10196,Ozone,504.0,2015,34.1
+10197,Fine Particles,104.0,2015,9.7
+10198,Fine Particles,404.0,2015,9.1
+10199,Ozone,501.0,2015,30.0
+10203,Fine Particles,405.0,2015,9.3
+10204,Fine Particles,403.0,2015,9.3
+10205,Ozone,404.0,2015,31.3
+10206,Fine Particles,106.0,2015,10.3
+10214,Fine Particles,502.0,2015,8.7
+10215,Fine Particles,402.0,2015,10.0
+10220,Ozone,407.0,2015,32.6
+10243,Ozone,107.0,2015,31.7
+10245,Ozone,307.0,2015,25.1
+10246,Ozone,308.0,2015,27.4
+10258,Nitrogen Dioxide,104.0,2015,15.1
+10259,Ozone,408.0,2015,32.0
+10260,Ozone,208.0,2015,34.7
+10271,Nitrogen Dioxide,310.0,2015,22.9
+10272,Nitrogen Dioxide,504.0,2015,6.7
+10277,Nitrogen Dioxide,101.0,2015,14.3
+10279,Nitrogen Dioxide,402.0,2015,16.3
+10282,Nitrogen Dioxide,403.0,2015,14.5
+10283,Nitrogen Dioxide,502.0,2015,10.4
+10298,Nitrogen Dioxide,407.0,2015,13.4
+10299,Nitrogen Dioxide,408.0,2015,13.3
+10870,Fine Particles,410.0,2016,6.9
+10871,Nitrogen Dioxide,408.0,2016,13.1
+10872,Nitrogen Dioxide,304.0,2016,19.1
+10874,Nitrogen Dioxide,409.0,2016,12.1
+10875,Nitrogen Dioxide,202.0,2016,17.3
+10876,Nitrogen Dioxide,306.0,2016,25.0
+10881,Nitrogen Dioxide,403.0,2016,14.1
+10882,Nitrogen Dioxide,303.0,2016,17.8
+10884,Nitrogen Dioxide,207.0,2016,14.0
+10885,Fine Particles,408.0,2016,7.6
+10886,Fine Particles,308.0,2016,9.8
+10888,Ozone,308.0,2016,30.0
+10890,Ozone,208.0,2016,35.8
+10891,Ozone,407.0,2016,34.3
+10892,Fine Particles,207.0,2016,8.1
+10893,Fine Particles,302.0,2016,8.7
+10901,Ozone,202.0,2016,32.0
+10902,Fine Particles,102.0,2016,7.9
+10906,Fine Particles,310.0,2016,9.8
+10907,Fine Particles,309.0,2016,9.3
+10910,Ozone,409.0,2016,34.3
+10912,Ozone,304.0,2016,30.5
+10913,Ozone,204.0,2016,34.3
+10915,Fine Particles,401.0,2016,9.2
+10919,Fine Particles,211.0,2016,9.0
+10920,Fine Particles,204.0,2016,8.3
+10921,Fine Particles,501.0,2016,8.2
+10927,Nitrogen Dioxide,310.0,2016,22.8
+10934,Nitrogen Dioxide,405.0,2016,13.6
+10935,Fine Particles,303.0,2016,8.9
+10938,Fine Particles,405.0,2016,8.1
+10939,Fine Particles,205.0,2016,8.9
+10943,Fine Particles,301.0,2016,8.5
+10955,Nitrogen Dioxide,305.0,2016,20.8
+10956,Nitrogen Dioxide,101.0,2016,13.0
+10962,Nitrogen Dioxide,308.0,2016,22.2
+10990,Fine Particles,203.0,2016,8.3
+10991,Fine Particles,103.0,2016,8.1
+10994,Fine Particles,209.0,2016,7.9
+10998,Fine Particles,201.0,2016,9.8
+10999,Ozone,210.0,2016,35.6
+11000,Ozone,309.0,2016,30.1
+11001,Ozone,206.0,2016,33.5
+11002,Nitrogen Dioxide,201.0,2016,16.6
+11003,Fine Particles,105.0,2016,8.8
+11004,Ozone,305.0,2016,30.2
+11005,Ozone,405.0,2016,33.5
+11006,Nitrogen Dioxide,104.0,2016,14.3
+11007,Nitrogen Dioxide,302.0,2016,18.1
+11008,Ozone,102.0,2016,33.2
+11009,Fine Particles,305.0,2016,9.7
+11010,Fine Particles,403.0,2016,7.8
+11011,Fine Particles,101.0,2016,8.0
+11012,Ozone,101.0,2016,32.5
+11013,Fine Particles,104.0,2016,8.1
+11014,Fine Particles,306.0,2016,10.8
+11017,Ozone,209.0,2016,34.3
+11018,Ozone,310.0,2016,29.7
+11019,Ozone,106.0,2016,32.3
+11020,Ozone,203.0,2016,33.0
+11021,Ozone,303.0,2016,31.6
+11025,Ozone,302.0,2016,31.4
+11031,Fine Particles,208.0,2016,7.8
+11033,Nitrogen Dioxide,208.0,2016,10.0
+11034,Ozone,307.0,2016,27.5
+11054,Fine Particles,210.0,2016,7.7
+11060,Nitrogen Dioxide,105.0,2016,16.7
+11061,Nitrogen Dioxide,205.0,2016,15.1
+11062,Nitrogen Dioxide,106.0,2016,17.1
+11064,Nitrogen Dioxide,209.0,2016,13.3
+11065,Nitrogen Dioxide,210.0,2016,10.4
+11071,Nitrogen Dioxide,102.0,2016,14.6
+11073,Fine Particles,503.0,2016,8.1
+11084,Nitrogen Dioxide,204.0,2016,13.1
+11094,Nitrogen Dioxide,503.0,2016,10.2
+11095,Nitrogen Dioxide,203.0,2016,15.4
+11096,Nitrogen Dioxide,103.0,2016,14.8
+11097,Nitrogen Dioxide,309.0,2016,20.4
+11098,Fine Particles,502.0,2016,7.8
+11099,Nitrogen Dioxide,206.0,2016,14.3
+11100,Fine Particles,106.0,2016,8.9
+11102,Fine Particles,206.0,2016,8.1
+11103,Nitrogen Dioxide,211.0,2016,15.9
+11105,Nitrogen Dioxide,406.0,2016,13.7
+11109,Nitrogen Dioxide,301.0,2016,16.2
+11110,Fine Particles,202.0,2016,9.2
+11111,Ozone,306.0,2016,28.8
+11113,Fine Particles,304.0,2016,9.1
+11117,Ozone,301.0,2016,31.9
+11119,Ozone,201.0,2016,33.0
+11124,Ozone,205.0,2016,33.3
+11125,Ozone,403.0,2016,33.4
+11126,Ozone,105.0,2016,32.3
+11128,Ozone,103.0,2016,32.8
+11140,Ozone,104.0,2016,33.6
+11144,Ozone,504.0,2016,36.2
+11154,Fine Particles,307.0,2016,11.2
+11157,Nitrogen Dioxide,107.0,2016,15.6
+11161,Nitrogen Dioxide,501.0,2016,13.9
+11176,Ozone,410.0,2016,38.2
+11179,Ozone,211.0,2016,33.0
+11180,Ozone,501.0,2016,33.4
+11182,Ozone,402.0,2016,33.1
+11184,Fine Particles,409.0,2016,7.1
+11188,Ozone,503.0,2016,34.7
+11191,Ozone,401.0,2016,33.2
+11192,Nitrogen Dioxide,401.0,2016,16.0
+11195,Nitrogen Dioxide,410.0,2016,6.2
+11198,Ozone,406.0,2016,33.2
+11202,Fine Particles,504.0,2016,7.5
+11206,Ozone,404.0,2016,33.0
+11207,Nitrogen Dioxide,504.0,2016,6.7
+11208,Fine Particles,406.0,2016,7.6
+11212,Ozone,502.0,2016,34.2
+11213,Nitrogen Dioxide,502.0,2016,10.9
+11214,Nitrogen Dioxide,402.0,2016,15.6
+11215,Nitrogen Dioxide,404.0,2016,12.7
+11221,Fine Particles,404.0,2016,7.4
+11222,Nitrogen Dioxide,307.0,2016,26.9
+11223,Fine Particles,107.0,2016,9.0
+11229,Fine Particles,402.0,2016,8.7
+11242,Ozone,107.0,2016,33.6
+11244,Ozone,207.0,2016,33.7
+11245,Ozone,408.0,2016,33.9
+11265,Nitrogen Dioxide,407.0,2016,12.8
+11271,Fine Particles,407.0,2016,7.6
+12351,Nitrogen Dioxide,402.0,2017,15.8
+12355,Nitrogen Dioxide,209.0,2017,12.8
+12356,Nitrogen Dioxide,104.0,2017,14.1
+12357,Nitrogen Dioxide,304.0,2017,20.0
+12358,Nitrogen Dioxide,204.0,2017,13.4
+12361,Nitrogen Dioxide,403.0,2017,14.0
+12365,Fine Particles,211.0,2017,9.9
+12366,Fine Particles,304.0,2017,10.1
+12367,Fine Particles,204.0,2017,9.1
+12369,Nitrogen Dioxide,201.0,2017,16.4
+12370,Fine Particles,303.0,2017,10.1
+12374,Fine Particles,209.0,2017,8.5
+12375,Fine Particles,410.0,2017,7.7
+12376,Fine Particles,210.0,2017,8.2
+12383,Fine Particles,203.0,2017,9.1
+12384,Fine Particles,103.0,2017,9.4
+12385,Fine Particles,501.0,2017,8.6
+12386,Fine Particles,102.0,2017,9.3
+12387,Fine Particles,302.0,2017,9.9
+12388,Nitrogen Dioxide,102.0,2017,14.4
+12389,Nitrogen Dioxide,405.0,2017,13.8
+12390,Nitrogen Dioxide,205.0,2017,14.1
+12391,Nitrogen Dioxide,103.0,2017,14.9
+12392,Nitrogen Dioxide,501.0,2017,13.3
+12393,Ozone,201.0,2017,29.0
+12394,Ozone,501.0,2017,27.0
+12395,Ozone,101.0,2017,27.5
+12396,Nitrogen Dioxide,101.0,2017,13.0
+12397,Ozone,409.0,2017,31.7
+12398,Nitrogen Dioxide,302.0,2017,18.9
+12399,Ozone,102.0,2017,29.0
+12400,Ozone,202.0,2017,27.9
+12401,Fine Particles,306.0,2017,11.3
+12403,Ozone,205.0,2017,29.3
+12404,Ozone,305.0,2017,25.2
+12405,Fine Particles,305.0,2017,10.4
+12410,Ozone,304.0,2017,25.6
+12411,Ozone,204.0,2017,30.9
+12412,Ozone,211.0,2017,29.3
+12415,Fine Particles,402.0,2017,9.6
+12419,Ozone,402.0,2017,29.4
+12422,Ozone,401.0,2017,29.1
+12427,Fine Particles,104.0,2017,9.3
+12430,Nitrogen Dioxide,305.0,2017,21.9
+12431,Ozone,203.0,2017,29.4
+12441,Nitrogen Dioxide,206.0,2017,13.8
+12446,Fine Particles,406.0,2017,8.6
+12448,Fine Particles,101.0,2017,9.5
+12467,Nitrogen Dioxide,203.0,2017,15.2
+12474,Fine Particles,308.0,2017,10.7
+12475,Fine Particles,207.0,2017,8.9
+12488,Nitrogen Dioxide,309.0,2017,20.6
+12490,Nitrogen Dioxide,503.0,2017,10.2
+12492,Ozone,207.0,2017,30.1
+12493,Ozone,208.0,2017,32.5
+12494,Nitrogen Dioxide,207.0,2017,13.8
+12495,Ozone,407.0,2017,31.2
+12498,Nitrogen Dioxide,310.0,2017,23.0
+12499,Nitrogen Dioxide,410.0,2017,7.8
+12501,Ozone,209.0,2017,30.1
+12502,Ozone,210.0,2017,31.9
+12503,Ozone,309.0,2017,25.6
+12504,Ozone,106.0,2017,27.7
+12506,Ozone,301.0,2017,26.9
+12509,Ozone,302.0,2017,26.5
+12510,Ozone,306.0,2017,23.4
+12516,Fine Particles,208.0,2017,8.5
+12518,Ozone,107.0,2017,29.4
+12524,Fine Particles,307.0,2017,11.5
+12526,Fine Particles,401.0,2017,10.2
+12561,Nitrogen Dioxide,308.0,2017,22.4
+12566,Ozone,307.0,2017,22.1
+12567,Ozone,308.0,2017,25.2
+12572,Fine Particles,105.0,2017,10.1
+12573,Fine Particles,205.0,2017,9.8
+12574,Fine Particles,403.0,2017,8.9
+12581,Fine Particles,409.0,2017,8.4
+12582,Fine Particles,106.0,2017,10.1
+12593,Fine Particles,301.0,2017,9.9
+12596,Fine Particles,201.0,2017,10.8
+12597,Nitrogen Dioxide,401.0,2017,16.2
+12599,Fine Particles,202.0,2017,10.1
+12600,Nitrogen Dioxide,106.0,2017,17.7
+12602,Nitrogen Dioxide,105.0,2017,17.1
+12604,Nitrogen Dioxide,409.0,2017,12.6
+12605,Nitrogen Dioxide,211.0,2017,15.7
+12615,Fine Particles,309.0,2017,10.2
+12616,Fine Particles,310.0,2017,10.5
+12617,Fine Particles,206.0,2017,8.8
+12619,Fine Particles,504.0,2017,7.9
+12620,Fine Particles,404.0,2017,8.7
+12623,Nitrogen Dioxide,210.0,2017,10.7
+12625,Nitrogen Dioxide,301.0,2017,16.7
+12635,Fine Particles,107.0,2017,10.2
+12637,Fine Particles,407.0,2017,8.4
+12638,Nitrogen Dioxide,407.0,2017,13.3
+12640,Nitrogen Dioxide,107.0,2017,15.9
+12641,Nitrogen Dioxide,306.0,2017,26.2
+12654,Fine Particles,408.0,2017,8.6
+12655,Nitrogen Dioxide,307.0,2017,28.6
+12662,Ozone,403.0,2017,30.3
+12663,Ozone,103.0,2017,28.3
+12669,Ozone,206.0,2017,29.7
+12678,Ozone,310.0,2017,24.7
+12686,Ozone,104.0,2017,29.8
+12696,Ozone,410.0,2017,35.2
+12702,Ozone,105.0,2017,27.8
+12703,Ozone,303.0,2017,26.9
+12704,Ozone,405.0,2017,30.1
+12705,Ozone,503.0,2017,28.0
+12706,Ozone,406.0,2017,30.1
+12707,Nitrogen Dioxide,202.0,2017,16.6
+12708,Ozone,504.0,2017,29.0
+12709,Ozone,404.0,2017,30.3
+12715,Ozone,502.0,2017,28.8
+12716,Nitrogen Dioxide,303.0,2017,18.6
+12717,Fine Particles,405.0,2017,8.9
+12718,Fine Particles,503.0,2017,8.4
+12721,Nitrogen Dioxide,504.0,2017,7.8
+12722,Nitrogen Dioxide,404.0,2017,12.6
+12724,Fine Particles,502.0,2017,8.2
+12725,Nitrogen Dioxide,502.0,2017,10.3
+12731,Nitrogen Dioxide,406.0,2017,13.8
+12737,Ozone,408.0,2017,30.9
+12749,Nitrogen Dioxide,408.0,2017,13.7
+12756,Nitrogen Dioxide,208.0,2017,10.3
+13342,Nitrogen Dioxide,106.0,2018,15.9
+13343,Nitrogen Dioxide,410.0,2018,6.7
+13344,Nitrogen Dioxide,409.0,2018,12.2
+13346,Nitrogen Dioxide,304.0,2018,18.4
+13348,Nitrogen Dioxide,203.0,2018,14.0
+13349,Nitrogen Dioxide,303.0,2018,16.4
+13354,Fine Particles,304.0,2018,9.5
+13357,Fine Particles,205.0,2018,8.8
+13358,Fine Particles,103.0,2018,8.6
+13360,Fine Particles,410.0,2018,7.8
+13361,Fine Particles,309.0,2018,9.3
+13362,Fine Particles,301.0,2018,8.7
+13365,Fine Particles,209.0,2018,7.8
+13368,Nitrogen Dioxide,205.0,2018,14.4
+13369,Fine Particles,203.0,2018,8.5
+13370,Nitrogen Dioxide,408.0,2018,12.8
+13371,Nitrogen Dioxide,307.0,2018,26.1
+13372,Nitrogen Dioxide,407.0,2018,11.8
+13373,Nitrogen Dioxide,302.0,2018,16.9
+13374,Nitrogen Dioxide,103.0,2018,13.3
+13375,Ozone,103.0,2018,30.6
+13376,Nitrogen Dioxide,501.0,2018,12.3
+13377,Ozone,501.0,2018,28.5
+13378,Ozone,309.0,2018,26.8
+13379,Nitrogen Dioxide,206.0,2018,12.6
+13381,Ozone,409.0,2018,31.8
+13382,Ozone,102.0,2018,31.2
+13383,Ozone,202.0,2018,28.5
+13384,Nitrogen Dioxide,202.0,2018,16.4
+13385,Fine Particles,406.0,2018,8.0
+13386,Fine Particles,202.0,2018,8.9
+13387,Fine Particles,104.0,2018,8.4
+13389,Ozone,205.0,2018,29.5
+13390,Ozone,203.0,2018,30.2
+13391,Fine Particles,305.0,2018,10.0
+13393,Ozone,210.0,2018,32.5
+13394,Nitrogen Dioxide,309.0,2018,19.4
+13395,Fine Particles,310.0,2018,10.1
+13398,Nitrogen Dioxide,301.0,2018,15.0
+13399,Fine Particles,204.0,2018,8.4
+13401,Ozone,104.0,2018,31.5
+13402,Ozone,204.0,2018,31.7
+13404,Nitrogen Dioxide,209.0,2018,11.5
+13405,Ozone,106.0,2018,29.7
+13406,Ozone,209.0,2018,30.9
+13407,Ozone,206.0,2018,30.4
+13411,Fine Particles,302.0,2018,8.9
+13414,Nitrogen Dioxide,101.0,2018,11.7
+13422,Fine Particles,210.0,2018,7.9
+13427,Nitrogen Dioxide,402.0,2018,14.9
+13435,Fine Particles,102.0,2018,8.3
+13438,Fine Particles,201.0,2018,9.9
+13454,Fine Particles,303.0,2018,8.7
+13455,Fine Particles,405.0,2018,8.3
+13458,Nitrogen Dioxide,305.0,2018,19.9
+13467,Fine Particles,408.0,2018,8.3
+13476,Fine Particles,208.0,2018,8.1
+13480,Nitrogen Dioxide,107.0,2018,15.2
+13481,Nitrogen Dioxide,207.0,2018,12.3
+13482,Ozone,107.0,2018,30.6
+13487,Ozone,410.0,2018,35.2
+13491,Nitrogen Dioxide,401.0,2018,16.4
+13496,Nitrogen Dioxide,102.0,2018,13.1
+13497,Ozone,302.0,2018,28.4
+13498,Ozone,306.0,2018,24.8
+13503,Nitrogen Dioxide,208.0,2018,9.1
+13505,Nitrogen Dioxide,404.0,2018,11.7
+13511,Fine Particles,308.0,2018,9.9
+13512,Fine Particles,307.0,2018,11.6
+13554,Ozone,208.0,2018,33.0
+13569,Fine Particles,409.0,2018,8.1
+13574,Fine Particles,402.0,2018,8.9
+13578,Fine Particles,211.0,2018,9.3
+13579,Fine Particles,404.0,2018,8.0
+13580,Fine Particles,501.0,2018,7.8
+13591,Nitrogen Dioxide,310.0,2018,21.8
+13592,Nitrogen Dioxide,201.0,2018,17.5
+13593,Nitrogen Dioxide,204.0,2018,12.0
+13594,Fine Particles,306.0,2018,11.3
+13595,Nitrogen Dioxide,104.0,2018,12.8
+13597,Nitrogen Dioxide,211.0,2018,15.8
+13600,Nitrogen Dioxide,306.0,2018,24.9
+13603,Fine Particles,206.0,2018,8.2
+13604,Fine Particles,107.0,2018,9.2
+13606,Fine Particles,503.0,2018,7.7
+13607,Fine Particles,504.0,2018,7.4
+13609,Nitrogen Dioxide,210.0,2018,9.1
+13610,Fine Particles,403.0,2018,8.4
+13622,Fine Particles,407.0,2018,8.0
+13623,Nitrogen Dioxide,308.0,2018,21.5
+13636,Fine Particles,207.0,2018,8.3
+13644,Ozone,105.0,2018,30.0
+13645,Ozone,503.0,2018,29.4
+13646,Ozone,305.0,2018,27.0
+13650,Ozone,406.0,2018,31.0
+13653,Ozone,405.0,2018,31.0
+13655,Fine Particles,105.0,2018,8.9
+13657,Ozone,310.0,2018,25.9
+13661,Fine Particles,106.0,2018,9.1
+13662,Ozone,402.0,2018,30.3
+13664,Ozone,504.0,2018,30.3
+13665,Ozone,211.0,2018,29.6
+13667,Ozone,404.0,2018,31.0
+13668,Ozone,304.0,2018,27.2
+13677,Ozone,101.0,2018,29.8
+13678,Ozone,201.0,2018,29.0
+13679,Ozone,301.0,2018,29.0
+13680,Ozone,401.0,2018,29.7
+13692,Ozone,303.0,2018,28.8
+13693,Ozone,403.0,2018,31.3
+13694,Nitrogen Dioxide,405.0,2018,12.5
+13695,Nitrogen Dioxide,406.0,2018,12.4
+13697,Nitrogen Dioxide,105.0,2018,15.2
+13703,Ozone,502.0,2018,29.9
+13706,Nitrogen Dioxide,502.0,2018,9.3
+13709,Nitrogen Dioxide,504.0,2018,6.3
+13710,Fine Particles,502.0,2018,7.5
+13711,Nitrogen Dioxide,503.0,2018,9.1
+13712,Nitrogen Dioxide,403.0,2018,13.0
+13718,Fine Particles,101.0,2018,8.3
+13719,Fine Particles,401.0,2018,9.4
+13722,Ozone,407.0,2018,31.9
+13726,Ozone,408.0,2018,31.3
+13727,Ozone,307.0,2018,24.0
+13728,Ozone,308.0,2018,26.4
+13729,Ozone,207.0,2018,31.0
+14645,Nitrogen Dioxide,307.0,2019,24.8
+14646,Fine Particles,307.0,2019,11.1
+14647,Fine Particles,208.0,2019,7.7
+14655,Nitrogen Dioxide,202.0,2019,18.0
+14660,Nitrogen Dioxide,409.0,2019,13.0
+14661,Nitrogen Dioxide,104.0,2019,12.8
+14662,Nitrogen Dioxide,211.0,2019,16.7
+14665,Ozone,302.0,2019,27.1
+14667,Nitrogen Dioxide,204.0,2019,12.0
+14668,Fine Particles,404.0,2019,7.3
+14669,Nitrogen Dioxide,203.0,2019,14.3
+14670,Nitrogen Dioxide,209.0,2019,13.0
+14676,Ozone,409.0,2019,33.4
+14677,Ozone,410.0,2019,37.4
+14682,Fine Particles,211.0,2019,9.0
+14683,Fine Particles,204.0,2019,8.0
+14685,Nitrogen Dioxide,205.0,2019,16.2
+14686,Nitrogen Dioxide,303.0,2019,16.7
+14687,Ozone,204.0,2019,32.6
+14697,Fine Particles,405.0,2019,7.9
+14706,Nitrogen Dioxide,301.0,2019,14.0
+14707,Nitrogen Dioxide,501.0,2019,14.3
+14708,Fine Particles,301.0,2019,8.2
+14709,Fine Particles,203.0,2019,8.1
+14712,Ozone,501.0,2019,27.3
+14713,Ozone,201.0,2019,27.8
+14714,Ozone,101.0,2019,28.4
+14715,Ozone,401.0,2019,28.4
+14716,Fine Particles,303.0,2019,8.3
+14723,Fine Particles,309.0,2019,10.1
+14726,Fine Particles,302.0,2019,8.2
+14727,Fine Particles,306.0,2019,11.2
+14729,Nitrogen Dioxide,207.0,2019,12.8
+14730,Nitrogen Dioxide,306.0,2019,24.9
+14734,Fine Particles,106.0,2019,8.3
+14738,Nitrogen Dioxide,308.0,2019,22.6
+14739,Fine Particles,201.0,2019,9.9
+14740,Fine Particles,103.0,2019,7.8
+14743,Fine Particles,202.0,2019,8.9
+14746,Ozone,405.0,2019,31.3
+14747,Ozone,106.0,2019,28.6
+14762,Fine Particles,207.0,2019,7.9
+14788,Fine Particles,310.0,2019,9.5
+14789,Fine Particles,206.0,2019,7.9
+14790,Fine Particles,205.0,2019,8.9
+14792,Fine Particles,304.0,2019,8.6
+14798,Fine Particles,210.0,2019,7.6
+14799,Ozone,309.0,2019,25.7
+14804,Fine Particles,305.0,2019,9.1
+14807,Ozone,103.0,2019,29.6
+14808,Ozone,303.0,2019,27.5
+14811,Ozone,202.0,2019,27.6
+14812,Ozone,306.0,2019,23.8
+14813,Nitrogen Dioxide,103.0,2019,12.2
+14814,Nitrogen Dioxide,305.0,2019,20.1
+14815,Nitrogen Dioxide,304.0,2019,18.8
+14816,Nitrogen Dioxide,101.0,2019,10.4
+14817,Nitrogen Dioxide,401.0,2019,17.7
+14818,Nitrogen Dioxide,309.0,2019,20.3
+14819,Nitrogen Dioxide,310.0,2019,23.1
+14820,Nitrogen Dioxide,410.0,2019,7.3
+14821,Nitrogen Dioxide,210.0,2019,10.0
+14822,Nitrogen Dioxide,302.0,2019,16.8
+14823,Nitrogen Dioxide,406.0,2019,12.6
+14833,Fine Particles,409.0,2019,7.2
+14835,Fine Particles,501.0,2019,7.8
+14838,Fine Particles,104.0,2019,7.8
+14839,Fine Particles,410.0,2019,7.0
+14841,Fine Particles,105.0,2019,8.3
+14844,Fine Particles,102.0,2019,7.7
+14846,Fine Particles,101.0,2019,7.8
+14850,Nitrogen Dioxide,208.0,2019,9.2
+14853,Fine Particles,503.0,2019,7.4
+14857,Fine Particles,209.0,2019,7.8
+14858,Ozone,310.0,2019,24.7
+14859,Ozone,403.0,2019,31.3
+14860,Ozone,105.0,2019,29.1
+14863,Fine Particles,406.0,2019,7.4
+14864,Ozone,102.0,2019,30.3
+14865,Nitrogen Dioxide,106.0,2019,15.4
+14866,Fine Particles,504.0,2019,7.3
+14867,Ozone,404.0,2019,31.7
+14873,Nitrogen Dioxide,206.0,2019,13.6
+14874,Ozone,205.0,2019,28.8
+14885,Nitrogen Dioxide,102.0,2019,12.3
+14895,Ozone,301.0,2019,27.7
+14896,Nitrogen Dioxide,407.0,2019,11.7
+14898,Fine Particles,107.0,2019,8.7
+14899,Fine Particles,308.0,2019,10.8
+14901,Fine Particles,407.0,2019,7.5
+14902,Ozone,503.0,2019,28.8
+14903,Ozone,203.0,2019,30.5
+14906,Ozone,209.0,2019,30.8
+14907,Ozone,210.0,2019,33.3
+14908,Ozone,206.0,2019,30.6
+14910,Ozone,307.0,2019,24.0
+14911,Ozone,208.0,2019,34.1
+14914,Ozone,305.0,2019,25.9
+14916,Nitrogen Dioxide,107.0,2019,15.5
+14919,Ozone,211.0,2019,29.3
+14920,Ozone,104.0,2019,30.9
+14932,Ozone,406.0,2019,31.8
+14933,Fine Particles,403.0,2019,7.8
+14934,Ozone,504.0,2019,30.1
+14936,Ozone,304.0,2019,25.6
+14938,Fine Particles,401.0,2019,9.3
+14939,Nitrogen Dioxide,201.0,2019,19.2
+14958,Fine Particles,502.0,2019,7.4
+14959,Fine Particles,402.0,2019,8.6
+14960,Ozone,502.0,2019,29.1
+14961,Ozone,402.0,2019,30.0
+14965,Ozone,107.0,2019,29.6
+14971,Ozone,407.0,2019,33.3
+14972,Ozone,408.0,2019,32.8
+14992,Ozone,308.0,2019,25.0
+14993,Fine Particles,408.0,2019,7.5
+15005,Ozone,207.0,2019,31.4
+15006,Nitrogen Dioxide,408.0,2019,13.1
+15020,Nitrogen Dioxide,105.0,2019,14.4
+15024,Nitrogen Dioxide,504.0,2019,7.8
+15025,Nitrogen Dioxide,404.0,2019,12.5
+15030,Nitrogen Dioxide,402.0,2019,15.6
+15032,Nitrogen Dioxide,503.0,2019,10.4
+15033,Nitrogen Dioxide,405.0,2019,12.8
+15034,Nitrogen Dioxide,403.0,2019,13.6
+15035,Nitrogen Dioxide,502.0,2019,11.4
+15632,Nitrogen Dioxide,202.0,2020,13.0
+15635,Nitrogen Dioxide,204.0,2020,10.4
+15636,Fine Particles,211.0,2020,7.6
+15637,Fine Particles,204.0,2020,6.9
+15639,Nitrogen Dioxide,401.0,2020,14.2
+15641,Fine Particles,203.0,2020,7.0
+15642,Fine Particles,105.0,2020,7.3
+15644,Fine Particles,410.0,2020,6.3
+15645,Fine Particles,409.0,2020,6.6
+15647,Fine Particles,206.0,2020,6.7
+15648,Fine Particles,102.0,2020,7.2
+15649,Fine Particles,310.0,2020,7.8
+15650,Nitrogen Dioxide,303.0,2020,14.2
+15651,Fine Particles,205.0,2020,7.3
+15652,Fine Particles,103.0,2020,7.2
+15654,Nitrogen Dioxide,103.0,2020,13.2
+15655,Fine Particles,501.0,2020,6.9
+15656,Nitrogen Dioxide,201.0,2020,14.7
+15657,Nitrogen Dioxide,308.0,2020,16.2
+15658,Fine Particles,302.0,2020,7.4
+15659,Nitrogen Dioxide,102.0,2020,13.0
+15660,Nitrogen Dioxide,403.0,2020,11.0
+15661,Ozone,305.0,2020,29.3
+15662,Ozone,403.0,2020,31.6
+15663,Nitrogen Dioxide,301.0,2020,14.0
+15664,Nitrogen Dioxide,501.0,2020,9.8
+15665,Ozone,501.0,2020,27.0
+15666,Ozone,201.0,2020,29.7
+15667,Ozone,401.0,2020,31.0
+15668,Nitrogen Dioxide,206.0,2020,10.7
+15669,Ozone,202.0,2020,28.8
+15670,Ozone,102.0,2020,30.9
+15671,Fine Particles,306.0,2020,8.7
+15672,Ozone,205.0,2020,28.9
+15673,Fine Particles,305.0,2020,7.4
+15674,Fine Particles,303.0,2020,7.3
+15675,Ozone,209.0,2020,29.8
+15676,Ozone,409.0,2020,30.0
+15677,Ozone,410.0,2020,31.5
+15678,Ozone,104.0,2020,32.1
+15679,Ozone,211.0,2020,29.4
+15680,Ozone,304.0,2020,29.0
+15681,Fine Particles,104.0,2020,7.1
+15686,Nitrogen Dioxide,106.0,2020,14.8
+15690,Nitrogen Dioxide,406.0,2020,9.5
+15691,Nitrogen Dioxide,306.0,2020,19.3
+15699,Ozone,404.0,2020,30.5
+15701,Ozone,105.0,2020,30.2
+15702,Ozone,103.0,2020,30.2
+15703,Ozone,203.0,2020,29.2
+15706,Fine Particles,309.0,2020,8.1
+15707,Fine Particles,106.0,2020,7.2
+15718,Fine Particles,406.0,2020,6.7
+15726,Fine Particles,304.0,2020,7.2
+15740,Fine Particles,403.0,2020,7.1
+15743,Nitrogen Dioxide,205.0,2020,11.8
+15744,Nitrogen Dioxide,305.0,2020,16.3
+15745,Nitrogen Dioxide,203.0,2020,11.6
+15751,Nitrogen Dioxide,304.0,2020,15.1
+15752,Fine Particles,407.0,2020,6.7
+15753,Fine Particles,308.0,2020,8.5
+15763,Nitrogen Dioxide,307.0,2020,19.7
+15770,Ozone,207.0,2020,29.5
+15771,Ozone,107.0,2020,31.5
+15773,Fine Particles,307.0,2020,8.4
+15776,Nitrogen Dioxide,310.0,2020,16.6
+15778,Ozone,101.0,2020,28.5
+15779,Ozone,301.0,2020,28.8
+15784,Ozone,306.0,2020,27.8
+15785,Ozone,302.0,2020,29.5
+15790,Nitrogen Dioxide,107.0,2020,14.3
+15791,Ozone,308.0,2020,28.5
+15795,Nitrogen Dioxide,404.0,2020,8.7
+15798,Ozone,303.0,2020,30.2
+15799,Ozone,405.0,2020,30.2
+15800,Ozone,407.0,2020,29.7
+15836,Ozone,307.0,2020,27.7
+15847,Fine Particles,503.0,2020,6.6
+15857,Fine Particles,404.0,2020,6.7
+15861,Fine Particles,210.0,2020,6.5
+15869,Fine Particles,301.0,2020,7.4
+15871,Nitrogen Dioxide,309.0,2020,14.5
+15872,Fine Particles,101.0,2020,7.2
+15873,Fine Particles,201.0,2020,8.0
+15875,Nitrogen Dioxide,211.0,2020,13.2
+15876,Fine Particles,202.0,2020,7.4
+15878,Fine Particles,405.0,2020,6.9
+15879,Nitrogen Dioxide,409.0,2020,8.4
+15881,Nitrogen Dioxide,104.0,2020,12.1
+15891,Fine Particles,208.0,2020,6.6
+15892,Fine Particles,209.0,2020,6.7
+15893,Fine Particles,504.0,2020,6.5
+15895,Nitrogen Dioxide,410.0,2020,6.0
+15896,Nitrogen Dioxide,210.0,2020,8.9
+15898,Nitrogen Dioxide,101.0,2020,12.2
+15907,Fine Particles,408.0,2020,6.7
+15908,Fine Particles,107.0,2020,7.5
+15910,Nitrogen Dioxide,407.0,2020,9.5
+15911,Nitrogen Dioxide,302.0,2020,14.6
+15914,Nitrogen Dioxide,208.0,2020,8.6
+15915,Nitrogen Dioxide,207.0,2020,10.7
+15929,Fine Particles,207.0,2020,6.8
+15935,Ozone,503.0,2020,27.7
+15937,Ozone,106.0,2020,30.1
+15938,Ozone,210.0,2020,30.9
+15944,Ozone,206.0,2020,29.4
+15945,Ozone,309.0,2020,28.9
+15946,Ozone,310.0,2020,27.7
+15951,Ozone,204.0,2020,29.5
+15954,Ozone,504.0,2020,29.6
+15974,Nitrogen Dioxide,503.0,2020,7.8
+15976,Ozone,406.0,2020,30.5
+15982,Nitrogen Dioxide,105.0,2020,14.5
+15985,Ozone,402.0,2020,30.9
+15986,Ozone,502.0,2020,28.3
+15987,Nitrogen Dioxide,209.0,2020,9.8
+15989,Nitrogen Dioxide,502.0,2020,8.0
+15991,Nitrogen Dioxide,504.0,2020,7.3
+15994,Fine Particles,502.0,2020,6.6
+15995,Nitrogen Dioxide,402.0,2020,12.9
+15996,Nitrogen Dioxide,405.0,2020,10.5
+16003,Fine Particles,401.0,2020,7.8
+16005,Fine Particles,402.0,2020,7.4
+16009,Ozone,408.0,2020,29.5
+16027,Ozone,208.0,2020,30.4
+16034,Nitrogen Dioxide,408.0,2020,9.4
+16615,Fine Particles,410.0,2021,7.2
+16616,Fine Particles,204.0,2021,8.3
+16617,Fine Particles,211.0,2021,9.2
+16618,Fine Particles,104.0,2021,8.5
+16619,Fine Particles,208.0,2021,8.0
+16620,Fine Particles,308.0,2021,10.2
+16621,Nitrogen Dioxide,308.0,2021,17.9
+16624,Nitrogen Dioxide,304.0,2021,15.7
+16628,Nitrogen Dioxide,307.0,2021,20.2
+16629,Nitrogen Dioxide,106.0,2021,14.2
+16630,Nitrogen Dioxide,410.0,2021,4.9
+16631,Nitrogen Dioxide,409.0,2021,9.9
+16632,Fine Particles,305.0,2021,8.9
+16633,Fine Particles,203.0,2021,8.5
+16634,Fine Particles,303.0,2021,8.7
+16635,Fine Particles,202.0,2021,9.1
+16636,Nitrogen Dioxide,306.0,2021,20.2
+16642,Nitrogen Dioxide,203.0,2021,11.9
+16643,Nitrogen Dioxide,105.0,2021,13.8
+16662,Ozone,104.0,2021,30.3
+16663,Ozone,305.0,2021,27.8
+16670,Nitrogen Dioxide,101.0,2021,10.8
+16671,Fine Particles,501.0,2021,8.3
+16673,Fine Particles,103.0,2021,8.7
+16680,Fine Particles,309.0,2021,9.8
+16687,Ozone,207.0,2021,30.9
+16688,Ozone,208.0,2021,32.3
+16689,Ozone,107.0,2021,29.5
+16693,Nitrogen Dioxide,309.0,2021,15.7
+16694,Nitrogen Dioxide,310.0,2021,17.8
+16695,Nitrogen Dioxide,501.0,2021,11.8
+16697,Fine Particles,107.0,2021,9.0
+16698,Fine Particles,207.0,2021,8.3
+16700,Fine Particles,106.0,2021,8.6
+16702,Fine Particles,401.0,2021,9.1
+16704,Nitrogen Dioxide,303.0,2021,14.5
+16706,Ozone,409.0,2021,31.5
+16707,Ozone,209.0,2021,30.4
+16708,Ozone,410.0,2021,34.8
+16712,Ozone,406.0,2021,30.5
+16715,Nitrogen Dioxide,103.0,2021,12.1
+16724,Fine Particles,105.0,2021,8.7
+16727,Fine Particles,301.0,2021,8.8
+16731,Ozone,106.0,2021,29.2
+16732,Nitrogen Dioxide,207.0,2021,10.7
+16733,Nitrogen Dioxide,107.0,2021,15.1
+16742,Ozone,203.0,2021,30.3
+16743,Ozone,105.0,2021,29.0
+16745,Ozone,205.0,2021,29.0
+16751,Ozone,201.0,2021,27.8
+16757,Fine Particles,307.0,2021,10.1
+16758,Ozone,211.0,2021,29.3
+16760,Ozone,303.0,2021,28.4
+16761,Nitrogen Dioxide,407.0,2021,9.8
+16762,Ozone,210.0,2021,32.0
+16763,Fine Particles,310.0,2021,9.6
+16764,Fine Particles,209.0,2021,8.3
+16765,Ozone,301.0,2021,27.9
+16771,Fine Particles,402.0,2021,9.0
+16774,Fine Particles,405.0,2021,8.3
+16775,Ozone,304.0,2021,27.8
+16776,Fine Particles,304.0,2021,8.7
+16777,Fine Particles,404.0,2021,7.9
+16778,Ozone,302.0,2021,28.5
+16779,Fine Particles,102.0,2021,8.5
+16780,Fine Particles,302.0,2021,8.8
+16781,Fine Particles,101.0,2021,8.7
+16782,Fine Particles,201.0,2021,9.6
+16783,Fine Particles,210.0,2021,8.0
+16785,Fine Particles,306.0,2021,10.4
+16792,Nitrogen Dioxide,301.0,2021,13.2
+16794,Fine Particles,205.0,2021,9.0
+16795,Nitrogen Dioxide,104.0,2021,12.3
+16796,Fine Particles,403.0,2021,8.2
+16797,Nitrogen Dioxide,305.0,2021,16.7
+16799,Nitrogen Dioxide,206.0,2021,11.4
+16800,Nitrogen Dioxide,204.0,2021,10.8
+16801,Nitrogen Dioxide,404.0,2021,10.0
+16809,Ozone,307.0,2021,26.9
+16810,Nitrogen Dioxide,202.0,2021,14.6
+16817,Fine Particles,408.0,2021,8.0
+16818,Fine Particles,407.0,2021,7.9
+16823,Nitrogen Dioxide,210.0,2021,8.5
+16824,Nitrogen Dioxide,209.0,2021,10.8
+16826,Nitrogen Dioxide,504.0,2021,5.4
+16828,Nitrogen Dioxide,102.0,2021,12.4
+16839,Ozone,309.0,2021,28.3
+16850,Ozone,306.0,2021,27.1
+16851,Ozone,403.0,2021,30.8
+16867,Ozone,402.0,2021,29.2
+16888,Nitrogen Dioxide,208.0,2021,8.2
+16889,Ozone,308.0,2021,28.0
+16906,Ozone,101.0,2021,29.0
+16909,Nitrogen Dioxide,205.0,2021,13.7
+16910,Nitrogen Dioxide,405.0,2021,11.3
+16911,Ozone,503.0,2021,29.1
+16912,Ozone,103.0,2021,30.0
+16916,Nitrogen Dioxide,211.0,2021,14.7
+16919,Ozone,206.0,2021,30.5
+16920,Ozone,310.0,2021,28.0
+16924,Ozone,102.0,2021,30.4
+16925,Ozone,202.0,2021,28.7
+16931,Fine Particles,206.0,2021,8.3
+16932,Ozone,204.0,2021,31.1
+16933,Ozone,404.0,2021,30.1
+16935,Nitrogen Dioxide,201.0,2021,17.2
+16941,Fine Particles,503.0,2021,8.0
+16942,Ozone,405.0,2021,30.5
+16944,Fine Particles,409.0,2021,7.7
+16946,Ozone,502.0,2021,29.1
+16949,Fine Particles,504.0,2021,7.6
+16950,Ozone,504.0,2021,30.2
+16953,Ozone,501.0,2021,28.6
+16954,Ozone,401.0,2021,29.2
+16956,Fine Particles,406.0,2021,7.9
+16965,Ozone,407.0,2021,31.9
+16966,Ozone,408.0,2021,31.0
+17003,Fine Particles,502.0,2021,8.1
+17008,Nitrogen Dioxide,502.0,2021,9.6
+17009,Nitrogen Dioxide,401.0,2021,15.5
+17015,Nitrogen Dioxide,503.0,2021,8.6
+17016,Nitrogen Dioxide,403.0,2021,11.7
+17017,Nitrogen Dioxide,302.0,2021,14.4
+17018,Nitrogen Dioxide,406.0,2021,10.5
+17019,Nitrogen Dioxide,402.0,2021,14.7
+17036,Nitrogen Dioxide,408.0,2021,10.8
+17602,Fine Particles,409.0,2022,6.1
+17603,Nitrogen Dioxide,408.0,2022,10.5
+17604,Nitrogen Dioxide,201.0,2022,14.1
+17605,Nitrogen Dioxide,301.0,2022,13.5
+17606,Nitrogen Dioxide,204.0,2022,10.9
+17607,Nitrogen Dioxide,409.0,2022,9.8
+17608,Fine Particles,305.0,2022,7.1
+17609,Fine Particles,202.0,2022,6.9
+17610,Fine Particles,102.0,2022,7.1
+17611,Nitrogen Dioxide,306.0,2022,19.5
+17612,Nitrogen Dioxide,102.0,2022,11.6
+17613,Nitrogen Dioxide,406.0,2022,10.6
+17621,Fine Particles,402.0,2022,6.9
+17626,Nitrogen Dioxide,202.0,2022,13.4
+17628,Nitrogen Dioxide,206.0,2022,10.1
+17629,Nitrogen Dioxide,210.0,2022,8.5
+17630,Fine Particles,209.0,2022,6.0
+17631,Fine Particles,206.0,2022,6.2
+17639,Nitrogen Dioxide,405.0,2022,10.6
+17642,Fine Particles,211.0,2022,7.0
+17647,Fine Particles,304.0,2022,7.0
+17653,Nitrogen Dioxide,106.0,2022,13.6
+17654,Nitrogen Dioxide,305.0,2022,15.2
+17655,Nitrogen Dioxide,501.0,2022,9.4
+17656,Nitrogen Dioxide,302.0,2022,13.2
+17658,Nitrogen Dioxide,104.0,2022,12.0
+17659,Fine Particles,310.0,2022,7.4
+17660,Fine Particles,501.0,2022,6.2
+17661,Fine Particles,203.0,2022,6.5
+17662,Fine Particles,302.0,2022,7.1
+17663,Ozone,301.0,2022,29.9
+17664,Ozone,201.0,2022,32.4
+17666,Ozone,304.0,2022,29.9
+17667,Ozone,305.0,2022,30.8
+17668,Ozone,105.0,2022,31.4
+17669,Ozone,103.0,2022,31.7
+17673,Ozone,409.0,2022,34.7
+17674,Ozone,206.0,2022,35.2
+17675,Ozone,309.0,2022,31.2
+17680,Fine Particles,201.0,2022,7.2
+17681,Fine Particles,401.0,2022,7.2
+17683,Ozone,209.0,2022,35.8
+17684,Nitrogen Dioxide,402.0,2022,12.8
+17685,Ozone,402.0,2022,33.6
+17693,Ozone,204.0,2022,34.4
+17694,Ozone,211.0,2022,33.2
+17696,Ozone,104.0,2022,33.3
+17701,Fine Particles,104.0,2022,7.0
+17703,Ozone,406.0,2022,34.2
+17704,Ozone,202.0,2022,32.3
+17705,Ozone,302.0,2022,30.9
+17706,Ozone,102.0,2022,32.2
+17711,Ozone,101.0,2022,30.0
+17712,Ozone,501.0,2022,34.2
+17713,Ozone,401.0,2022,32.9
+17714,Fine Particles,303.0,2022,7.0
+17715,Fine Particles,205.0,2022,6.7
+17716,Fine Particles,405.0,2022,6.5
+17719,Nitrogen Dioxide,205.0,2022,12.5
+17720,Ozone,205.0,2022,33.7
+17723,Ozone,403.0,2022,34.5
+17752,Fine Particles,406.0,2022,6.3
+17753,Fine Particles,106.0,2022,7.1
+17754,Fine Particles,404.0,2022,6.4
+17756,Fine Particles,403.0,2022,6.6
+17757,Fine Particles,105.0,2022,7.2
+17760,Fine Particles,207.0,2022,6.2
+17771,Fine Particles,101.0,2022,7.1
+17779,Nitrogen Dioxide,207.0,2022,10.2
+17780,Nitrogen Dioxide,307.0,2022,19.6
+17781,Ozone,207.0,2022,34.9
+17784,Ozone,208.0,2022,36.1
+17785,Ozone,307.0,2022,28.9
+17787,Ozone,407.0,2022,35.2
+17795,Fine Particles,210.0,2022,5.8
+17807,Fine Particles,103.0,2022,7.1
+17811,Fine Particles,208.0,2022,5.9
+17812,Fine Particles,107.0,2022,7.2
+17817,Fine Particles,309.0,2022,7.6
+17818,Fine Particles,204.0,2022,6.4
+17819,Fine Particles,504.0,2022,5.6
+17822,Fine Particles,306.0,2022,8.3
+17842,Nitrogen Dioxide,310.0,2022,16.7
+17846,Nitrogen Dioxide,203.0,2022,11.4
+17847,Nitrogen Dioxide,403.0,2022,11.0
+17848,Nitrogen Dioxide,105.0,2022,13.6
+17849,Nitrogen Dioxide,103.0,2022,11.5
+17854,Fine Particles,307.0,2022,8.0
+17855,Fine Particles,308.0,2022,8.0
+17856,Fine Particles,408.0,2022,6.3
+17864,Ozone,210.0,2022,37.1
+17867,Ozone,306.0,2022,28.8
+17879,Ozone,504.0,2022,36.0
+17885,Ozone,310.0,2022,30.3
+17889,Ozone,203.0,2022,33.7
+17892,Nitrogen Dioxide,308.0,2022,16.6
+17893,Nitrogen Dioxide,407.0,2022,9.7
+17895,Nitrogen Dioxide,208.0,2022,8.6
+17913,Ozone,107.0,2022,32.9
+17914,Ozone,308.0,2022,30.3
+17915,Ozone,410.0,2022,37.5
+17916,Ozone,106.0,2022,31.5
+17917,Ozone,303.0,2022,31.6
+17918,Ozone,405.0,2022,34.2
+17919,Ozone,502.0,2022,34.8
+17920,Ozone,404.0,2022,33.4
+17921,Ozone,503.0,2022,34.8
+17922,Fine Particles,301.0,2022,7.2
+17923,Nitrogen Dioxide,101.0,2022,10.6
+17924,Fine Particles,503.0,2022,5.9
+17925,Nitrogen Dioxide,211.0,2022,12.7
+17926,Nitrogen Dioxide,410.0,2022,7.0
+17927,Fine Particles,410.0,2022,5.5
+17929,Nitrogen Dioxide,309.0,2022,13.9
+17930,Fine Particles,502.0,2022,5.9
+17931,Nitrogen Dioxide,502.0,2022,8.7
+17932,Nitrogen Dioxide,304.0,2022,14.7
+17933,Ozone,408.0,2022,34.4
+17956,Fine Particles,407.0,2022,6.2
+17967,Nitrogen Dioxide,107.0,2022,13.4
+17976,Nitrogen Dioxide,401.0,2022,13.2
+17977,Nitrogen Dioxide,209.0,2022,9.8
+17978,Nitrogen Dioxide,303.0,2022,13.0
+17979,Nitrogen Dioxide,503.0,2022,8.3
+17980,Nitrogen Dioxide,504.0,2022,6.9
+17981,Nitrogen Dioxide,404.0,2022,10.7

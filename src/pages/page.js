@@ -2,8 +2,8 @@
 
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.css';
-import { min } from "d3";
-// import { csv, json } from "d3";
+
+// import { min, csv, json } from "d3";
 // import * as topojson from "topojson-client";
 import { Row, Col, Container } from "react-bootstrap";
 
