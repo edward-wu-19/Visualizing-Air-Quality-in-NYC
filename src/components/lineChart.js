@@ -3,7 +3,6 @@ import { max, scaleLinear } from "d3";
 import { XAxis, YAxis } from "./axes";
 import { pollutantToColor, arange } from "./utils";
 
-import styles from "../styles/main-style.module.css";
 
 function LineChart (props) {
     const {offsetX, offsetY, dataset, height, width, toggleOzone, toggleNitrogen, toggleParticles, selectedNeighborhood} = props;
@@ -76,8 +75,14 @@ function LineChart (props) {
         var index = pollNames.indexOf('Fine Particles');
         pollNames.splice(index,1);
     }
+
+    const tickCountX = 11;
+    const tickCountY = 5;
     
     return <g transform={`translate(${offsetX}, ${offsetY})`}>
+        {/* the axis objects also have the gridlines */}
+        <YAxis yScale={yScale} width={width} height={height} offsetX={offsetX} offsetY={offsetY} tickCount={tickCountY} />
+        <XAxis xScale={xScale} width={width} height={height} tickCount={tickCountX} />
         
         { pollNames.map( pollutant => {
             // make points on graph
@@ -113,9 +118,8 @@ function LineChart (props) {
         }
             )
         }
-        
-        <YAxis yScale={yScale} height={height} offsetX={offsetX} offsetY={offsetY} />
-        <XAxis xScale={xScale} width={width} height={height} />
+
+        <text style={{textAnchor: 'middle', fontSize:'20px'}} x={width/2} y={-height/40}>Concentration Over Time</text>
     </g>
 }
 

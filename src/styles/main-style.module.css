@@ -10,6 +10,8 @@
 .headerStyle {
     padding: 10px;
     text-align: center;
+    margin-bottom: 5px;
+    padding-bottom: 0px;
 }
 
 .mapStyle {
@@ -19,6 +21,7 @@
     border-color: black;
     margin: 10px;
     margin-top: 0px;
+    margin-bottom: 14px;
 }
 
 .boundary {

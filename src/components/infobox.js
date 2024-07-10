@@ -15,16 +15,16 @@ function InfoBox(props) {
                     <th>Standard</th>
                 </tr>
                 <tr className={styles.tableRowStyle}>
-                    <td className={styles.tableColumnStyle}>Fine Particulate Matter <br/> (PM2.5)</td>
-                    <td>9 µg/m^3</td>
-                </tr>
-                <tr className={styles.tableRowStyle}>
                     <td className={styles.tableColumnStyle}>Ozone</td>
                     <td>70 ppb</td>
                 </tr>
                 <tr>
                     <td className={styles.tableColumnStyle}>Nitrogen Dioxide</td>
                     <td>53 ppb</td>
+                </tr>
+                <tr className={styles.tableRowStyle}>
+                    <td className={styles.tableColumnStyle}>Fine Particulate Matter <br/> (PM2.5)</td>
+                    <td>9 µg/m^3</td>
                 </tr>
             </tbody>
         </table>

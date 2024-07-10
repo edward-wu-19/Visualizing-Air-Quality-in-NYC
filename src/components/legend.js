@@ -4,7 +4,7 @@ import styles from "../styles/main-style.module.css";
 
 
 function Legend(props){
-    const {width, height, onClick} = props;
+    const {width, height, onOverFunction, onClick} = props;
     
     const defaultChecked = false;
     const legendItems = ([
@@ -20,13 +20,13 @@ function Legend(props){
                 {legendItems.map((item, index) => 
                 { 
                 return <div key={item.name}>
-                <li>
+                <li onMouseOver={() => onOverFunction(index)}>
                     <input type="checkbox" 
                     value={item.checked} 
                     onClick={() => onClick(index)} 
                     className="checkbox"
-                    // style={{marginRight: '5px'}}
                     defaultChecked="true"
+                    id={item.name}
                     />
                     
                     {/* colored square */}

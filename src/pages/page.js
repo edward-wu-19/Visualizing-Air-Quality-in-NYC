@@ -34,18 +34,26 @@ function PollutantVisualization(){
     const [toggleNitrogen, setToggleNitrogen] = React.useState(false);
     const [toggleParticles, setToggleParticles] = React.useState(false);
 
-    const onClick = (index) => {
+    const onOverFunction = (index) => {
         if (index == 0){
-            setToggleOzone(!toggleOzone);
             setMostRecentPollutant('Ozone');
         }
         else if (index == 1){
-            setToggleNitrogen(!toggleNitrogen);
             setMostRecentPollutant('Nitrogen Dioxide');
         }
         else if (index == 2){
-            setToggleParticles(!toggleParticles);
             setMostRecentPollutant('Fine Particles');
+        }
+    }
+    const onClick = (index) => {
+        if (index == 0){
+            setToggleOzone(!toggleOzone);
+        }
+        else if (index == 1){
+            setToggleNitrogen(!toggleNitrogen);
+        }
+        else if (index == 2){
+            setToggleParticles(!toggleParticles);
         }
     }
 
@@ -66,16 +74,16 @@ function PollutantVisualization(){
 
 
     const map_width = left_column_width;
-    const map_height = 500;
-    const map_margin = { top: 0, bottom: 0, left: 0, right: 0 };
-    const map_inner_width = map_width - map_margin.left - map_margin.right;
-    const map_inner_height = map_height - map_margin.top - map_margin.bottom;
+    const map_height = 530;
+    const map_margin = 15;
+    const map_inner_width = map_width - 2 * map_margin
+    const map_inner_height = map_height - 2 * map_margin
 
 
-    const linechart_width = left_column_width;
+    const linechart_width = 800;
     const linechart_height = 350;
     const linechart_margin = { top: 10, bottom: 50, left: 10, right: 10 };
-    const linechart_offsetYaxis = 80;
+    const linechart_offsetYaxis = 75;
     const linechart_offsetXaxis = -10;
     const linechart_title_height = 50;
 
@@ -237,6 +245,7 @@ function PollutantVisualization(){
                         <Legend
                         width={legend_inner_width}
                         height={legend_inner_height}
+                        onOverFunction={onOverFunction}
                         onClick={onClick}
                         />
                     </svg>
